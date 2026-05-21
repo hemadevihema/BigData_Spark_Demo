@@ -1,0 +1,1001 @@
+post_id,username,text,likes,shares,date,platform
+POST_1000,user_308,Election results are shocking to say the least,2432,37,2026-05-20,Facebook
+POST_1001,user_461,"I love this app, it is so easy to use",1420,199,2026-05-06,Instagram
+POST_1002,user_872,My phone battery drains too fast after the update #AI,1240,951,2026-04-24,Twitter
+POST_1003,user_268,Can't wait for the cricket match tomorrow!!,1094,519,2026-04-24,Twitter
+POST_1004,user_758,This movie is amazing! smh,598,866,2026-05-01,Reddit
+POST_1005,user_804,The customer service was really bad and rude,1287,880,2026-05-02,YouTube
+POST_1006,user_148,Cricket World Cup is getting intense!,3087,786,2026-05-17,Facebook
+POST_1007,user_772,Learning AI and machine learning is fun,1547,607,2026-05-14,Twitter
+POST_1008,user_120,The customer service was really bad and rude,4250,136,2026-05-15,Reddit
+POST_1009,user_794,Can't wait for the cricket match tomorrow!!,4183,568,2026-05-03,YouTube
+POST_1010,user_122,"I love this app, it is so easy to use",807,564,2026-04-25,Facebook
+POST_1011,user_831,Loving the new AI features on this platform.,3894,999,2026-05-13,Reddit
+POST_1012,user_979,Can't wait for the cricket match tomorrow!!,1436,939,2026-05-13,Twitter
+POST_1013,user_771,AI tools are trending everywhere now,685,707,2026-05-15,Twitter
+POST_1014,user_865,The customer service was really bad and rude,660,139,2026-05-07,YouTube
+POST_1015,user_142,Learning AI and machine learning is fun #awesome,457,848,2026-05-15,Twitter
+POST_1016,user_253,Election results are shocking to say the least,1682,792,2026-04-29,Twitter
+POST_1017,user_197,Loving the new AI features on this platform.,1696,76,2026-05-12,Instagram
+POST_1018,user_469,The new iPhone is great and has awesome features #awesome,267,953,2026-05-01,YouTube
+POST_1019,user_458,"I love this app, it is so easy to use #terrible",626,792,2026-05-19,Instagram
+POST_1020,user_860,"I hate the new update, it crashes constantly",1041,982,2026-05-06,Reddit
+POST_1021,user_257,"Just saw the new movie, it was okay.",4424,180,2026-05-10,Twitter
+POST_1022,user_802,My phone battery drains too fast after the update,426,547,2026-05-11,YouTube
+POST_1023,user_823,"This is terrible, completely useless",1894,685,2026-05-07,Facebook
+POST_1024,user_450,Cricket World Cup is getting intense!,3003,895,2026-05-10,Facebook
+POST_1025,user_309,"Not worth the price, totally disappointed.",800,707,2026-05-16,Facebook
+POST_1026,user_464,"Beautiful weather today, perfect for a walk.",4657,382,2026-05-01,Instagram
+POST_1027,user_214,The new iPhone is great and has awesome features,3790,759,2026-05-04,YouTube
+POST_1028,user_819,The customer service was really bad and rude,2166,307,2026-05-01,Twitter
+POST_1029,user_285,Awesome experience! Highly recommended.,113,436,2026-04-20,Reddit
+POST_1030,user_727,"I love this app, it is so easy to use",576,21,2026-04-24,Twitter
+POST_1031,user_995,"I love this app, it is so easy to use",1599,967,2026-05-20,Facebook
+POST_1032,user_778,"Just saw the new movie, it was okay. smh",1233,336,2026-05-07,Facebook
+POST_1033,user_790,"Not worth the price, totally disappointed.",412,49,2026-05-10,Reddit
+POST_1034,user_207,"Worst product ever, waste of money",4091,718,2026-04-23,Twitter
+POST_1035,user_774,Loving the new AI features on this platform.,3039,524,2026-05-08,Twitter
+POST_1036,user_209,This movie is amazing!,591,336,2026-04-28,YouTube
+POST_1037,user_920,Cricket World Cup is getting intense!,4315,319,2026-05-18,Reddit
+POST_1038,user_158,Can't wait for the cricket match tomorrow!!,3849,158,2026-05-06,Twitter
+POST_1039,user_827,"Worst product ever, waste of money",3838,38,2026-05-11,Facebook
+POST_1040,user_905,My phone battery drains too fast after the update,3068,79,2026-05-14,YouTube
+POST_1041,user_688,"Not worth the price, totally disappointed.",3828,958,2026-05-04,Reddit
+POST_1042,user_164,This movie is amazing!,4555,190,2026-05-20,Reddit
+POST_1043,user_722,The customer service was really bad and rude,745,542,2026-05-07,Twitter
+POST_1044,user_890,Can't wait for the cricket match tomorrow!!,1198,949,2026-05-17,YouTube
+POST_1045,user_266,Cricket World Cup is getting intense! #terrible,4249,785,2026-05-17,YouTube
+POST_1046,user_904,My phone battery drains too fast after the update smh,3224,370,2026-05-07,Twitter
+POST_1047,user_170,"Beautiful weather today, perfect for a walk.",4586,716,2026-05-20,Twitter
+POST_1048,user_536,The customer service was really bad and rude,1022,256,2026-04-26,Facebook
+POST_1049,user_368,The customer service was really bad and rude,4589,225,2026-05-14,Reddit
+POST_1050,user_104,Can't wait for the cricket match tomorrow!!,4840,711,2026-05-17,Reddit
+POST_1051,user_405,"I hate the new update, it crashes constantly",2233,772,2026-04-24,Twitter
+POST_1052,user_311,"Not worth the price, totally disappointed.",1455,855,2026-05-01,Reddit
+POST_1053,user_175,Loving the new AI features on this platform.,4626,850,2026-05-01,YouTube
+POST_1054,user_922,"I hate the new update, it crashes constantly",1294,359,2026-05-07,Instagram
+POST_1055,user_278,"Not worth the price, totally disappointed.",3033,433,2026-05-15,Facebook
+POST_1056,user_278,"I love this app, it is so easy to use",4996,252,2026-05-13,Facebook
+POST_1057,user_133,"Just saw the new movie, it was okay.",4083,322,2026-05-07,Instagram
+POST_1058,user_717,"I hate the new update, it crashes constantly",3952,857,2026-04-29,Facebook
+POST_1059,user_130,My phone battery drains too fast after the update,2405,391,2026-05-18,Facebook
+POST_1060,user_304,Apple just announced a new product event.,2646,421,2026-04-26,YouTube
+POST_1061,user_916,Cricket World Cup is getting intense!,2618,429,2026-05-03,Twitter
+POST_1062,user_585,"I love this app, it is so easy to use",1104,920,2026-05-05,Reddit
+POST_1063,user_655,"Worst product ever, waste of money",1506,374,2026-05-10,YouTube
+POST_1064,user_993,AI tools are trending everywhere now,3579,488,2026-05-03,Facebook
+POST_1065,user_166,Can't wait for the cricket match tomorrow!! #cricket,3517,858,2026-05-06,YouTube
+POST_1066,user_109,"Just saw the new movie, it was okay.",1967,38,2026-05-15,Instagram
+POST_1067,user_503,Awesome experience! Highly recommended.,3625,819,2026-05-18,Twitter
+POST_1068,user_651,Cricket World Cup is getting intense!,709,288,2026-05-18,Instagram
+POST_1069,user_828,"Worst product ever, waste of money",3801,964,2026-04-30,Reddit
+POST_1070,user_940,Can't wait for the cricket match tomorrow!!,834,379,2026-05-01,Twitter
+POST_1071,user_212,AI tools are trending everywhere now,2830,563,2026-05-07,Facebook
+POST_1072,user_399,Election results are shocking to say the least wow,3653,571,2026-05-18,Facebook
+POST_1073,user_645,Awesome experience! Highly recommended.,381,815,2026-05-08,Twitter
+POST_1074,user_482,"I hate the new update, it crashes constantly",4889,702,2026-05-08,Facebook
+POST_1075,user_943,Learning AI and machine learning is fun,3339,197,2026-05-04,Reddit
+POST_1076,user_751,"I love this app, it is so easy to use",158,91,2026-05-15,YouTube
+POST_1077,user_255,"Not worth the price, totally disappointed.",2115,959,2026-05-05,Facebook
+POST_1078,user_425,Learning AI and machine learning is fun,3221,297,2026-05-04,Instagram
+POST_1079,user_280,"I love this app, it is so easy to use",2410,326,2026-05-11,Reddit
+POST_1080,user_102,This movie is amazing!,590,284,2026-04-26,Instagram
+POST_1081,user_639,The new iPhone is great and has awesome features,3712,574,2026-05-08,Facebook
+POST_1082,user_570,This movie is amazing!,3314,286,2026-04-26,Twitter
+POST_1083,user_968,Loving the new AI features on this platform.,3586,966,2026-04-30,Instagram
+POST_1084,user_350,"Beautiful weather today, perfect for a walk.",1590,741,2026-05-11,Reddit
+POST_1085,user_981,Apple just announced a new product event. #terrible,2595,377,2026-05-10,Facebook
+POST_1086,user_368,The new iPhone is great and has awesome features,3772,1,2026-05-02,Reddit
+POST_1087,user_469,AI tools are trending everywhere now,2055,54,2026-05-13,Reddit
+POST_1088,user_474,Product launched today in the market,495,62,2026-05-03,Twitter
+POST_1089,user_944,Election results are shocking to say the least wow,412,159,2026-05-19,Twitter
+POST_1090,user_390,Loving the new AI features on this platform.,1899,576,2026-05-14,YouTube
+POST_1091,user_771,"Just saw the new movie, it was okay.",606,116,2026-04-22,Twitter
+POST_1092,user_425,The customer service was really bad and rude,4376,686,2026-04-28,Facebook
+POST_1093,user_769,"Beautiful weather today, perfect for a walk.",1352,229,2026-05-03,Reddit
+POST_1094,user_334,Apple just announced a new product event. #AI,2232,486,2026-05-12,YouTube
+POST_1095,user_841,Election results are shocking to say the least,4301,487,2026-05-13,Twitter
+POST_1096,user_677,Learning AI and machine learning is fun,2873,326,2026-04-29,Facebook
+POST_1097,user_247,"Just saw the new movie, it was okay. wow",3649,446,2026-04-27,YouTube
+POST_1098,user_772,"Beautiful weather today, perfect for a walk.",2905,431,2026-05-10,Twitter
+POST_1099,user_449,AI tools are trending everywhere now,2924,285,2026-05-08,Instagram
+POST_1100,user_425,Loving the new AI features on this platform.,3127,984,2026-05-03,YouTube
+POST_1101,user_150,"This is terrible, completely useless",4420,239,2026-05-05,Twitter
+POST_1102,user_919,"This is terrible, completely useless",4956,6,2026-05-08,Instagram
+POST_1103,user_142,"Just saw the new movie, it was okay.",4735,692,2026-04-21,YouTube
+POST_1104,user_667,Apple just announced a new product event.,652,530,2026-04-26,Twitter
+POST_1105,user_210,My phone battery drains too fast after the update,3588,265,2026-05-15,Instagram
+POST_1106,user_653,Product launched today in the market,2456,598,2026-05-07,Reddit
+POST_1107,user_122,Election results are shocking to say the least,873,21,2026-04-22,Instagram
+POST_1108,user_449,"Beautiful weather today, perfect for a walk.",3342,723,2026-04-29,Instagram
+POST_1109,user_266,Cricket World Cup is getting intense!,157,168,2026-05-05,Facebook
+POST_1110,user_276,The customer service was really bad and rude wow,3091,507,2026-04-28,Twitter
+POST_1111,user_747,"Beautiful weather today, perfect for a walk.",4024,52,2026-05-03,Reddit
+POST_1112,user_836,AI tools are trending everywhere now lol,3331,485,2026-05-01,Reddit
+POST_1113,user_146,"I love this app, it is so easy to use",4735,157,2026-05-07,YouTube
+POST_1114,user_913,Apple just announced a new product event.,4749,972,2026-05-16,Instagram
+POST_1115,user_559,Learning AI and machine learning is fun,4258,649,2026-04-27,Reddit
+POST_1116,user_673,"Just saw the new movie, it was okay.",4669,438,2026-04-22,YouTube
+POST_1117,user_785,"Just saw the new movie, it was okay.",4170,271,2026-04-26,Twitter
+POST_1118,user_699,Product launched today in the market,4715,316,2026-04-28,Facebook
+POST_1119,user_207,Cricket World Cup is getting intense!,234,303,2026-04-21,YouTube
+POST_1120,user_863,"I hate the new update, it crashes constantly smh",1208,671,2026-04-23,YouTube
+POST_1121,user_839,"I hate the new update, it crashes constantly",2198,203,2026-05-16,YouTube
+POST_1122,user_699,"Beautiful weather today, perfect for a walk.",3041,435,2026-05-12,Twitter
+POST_1123,user_750,AI tools are trending everywhere now,4821,495,2026-05-11,Reddit
+POST_1124,user_320,Cricket World Cup is getting intense!,1658,23,2026-05-07,Reddit
+POST_1125,user_991,"I hate the new update, it crashes constantly",3502,268,2026-05-02,YouTube
+POST_1126,user_903,Cricket World Cup is getting intense!,426,793,2026-05-09,YouTube
+POST_1127,user_170,The customer service was really bad and rude,1781,612,2026-05-06,Facebook
+POST_1128,user_424,AI tools are trending everywhere now,2271,236,2026-05-04,Facebook
+POST_1129,user_704,Apple just announced a new product event.,3809,810,2026-05-02,Twitter
+POST_1130,user_134,Awesome experience! Highly recommended.,4976,697,2026-05-11,Reddit
+POST_1131,user_135,The new iPhone is great and has awesome features lol,4154,399,2026-04-22,Instagram
+POST_1132,user_951,AI tools are trending everywhere now #cricket,1560,190,2026-04-28,Twitter
+POST_1133,user_129,"This is terrible, completely useless",2313,969,2026-04-24,Facebook
+POST_1134,user_839,"I hate the new update, it crashes constantly",3466,401,2026-05-19,Twitter
+POST_1135,user_507,This movie is amazing! #AI,697,982,2026-05-04,Instagram
+POST_1136,user_580,Can't wait for the cricket match tomorrow!! wow,2097,862,2026-04-29,Facebook
+POST_1137,user_796,"I love this app, it is so easy to use",839,723,2026-05-13,Facebook
+POST_1138,user_643,Apple just announced a new product event.,118,625,2026-04-24,Facebook
+POST_1139,user_686,Learning AI and machine learning is fun,1391,869,2026-05-02,YouTube
+POST_1140,user_950,Awesome experience! Highly recommended.,4531,213,2026-04-28,Instagram
+POST_1141,user_387,Product launched today in the market,4207,415,2026-04-22,Facebook
+POST_1142,user_111,"I hate the new update, it crashes constantly",4135,965,2026-05-09,Instagram
+POST_1143,user_632,"Beautiful weather today, perfect for a walk. #cricket",4101,249,2026-05-05,Instagram
+POST_1144,user_112,"Not worth the price, totally disappointed.",3994,40,2026-04-30,Twitter
+POST_1145,user_742,AI tools are trending everywhere now,390,974,2026-05-17,Reddit
+POST_1146,user_644,Loving the new AI features on this platform.,3238,309,2026-05-03,Twitter
+POST_1147,user_251,"Just saw the new movie, it was okay.",2445,494,2026-04-27,Facebook
+POST_1148,user_260,My phone battery drains too fast after the update,1138,796,2026-05-10,Instagram
+POST_1149,user_412,Can't wait for the cricket match tomorrow!!,188,502,2026-04-22,Facebook
+POST_1150,user_885,Awesome experience! Highly recommended.,3645,39,2026-04-29,YouTube
+POST_1151,user_958,Apple just announced a new product event.,510,767,2026-05-20,Facebook
+POST_1152,user_329,"Worst product ever, waste of money",3137,643,2026-05-18,Twitter
+POST_1153,user_374,"Not worth the price, totally disappointed.",4528,33,2026-05-16,Twitter
+POST_1154,user_443,"Just saw the new movie, it was okay.",645,835,2026-05-17,Facebook
+POST_1155,user_814,Learning AI and machine learning is fun lol,3501,588,2026-04-25,Facebook
+POST_1156,user_866,"I hate the new update, it crashes constantly",2373,367,2026-05-17,Instagram
+POST_1157,user_598,"This is terrible, completely useless",4371,279,2026-05-20,Instagram
+POST_1158,user_815,"Beautiful weather today, perfect for a walk. #cricket",4967,134,2026-05-05,Instagram
+POST_1159,user_531,"Not worth the price, totally disappointed.",4393,142,2026-05-08,Facebook
+POST_1160,user_910,Learning AI and machine learning is fun,3130,707,2026-05-01,Facebook
+POST_1161,user_454,My phone battery drains too fast after the update,699,280,2026-04-23,Twitter
+POST_1162,user_317,Learning AI and machine learning is fun,3835,529,2026-04-30,Facebook
+POST_1163,user_606,"Beautiful weather today, perfect for a walk.",3643,637,2026-05-18,Twitter
+POST_1164,user_819,"This is terrible, completely useless",3552,604,2026-05-19,Twitter
+POST_1165,user_312,Loving the new AI features on this platform. #awesome,4091,99,2026-04-30,YouTube
+POST_1166,user_454,"This is terrible, completely useless",4165,982,2026-05-05,Twitter
+POST_1167,user_300,Can't wait for the cricket match tomorrow!!,3372,719,2026-05-11,Instagram
+POST_1168,user_247,Election results are shocking to say the least,4851,831,2026-05-06,Reddit
+POST_1169,user_786,"Beautiful weather today, perfect for a walk.",1990,74,2026-05-01,Reddit
+POST_1170,user_393,"Just saw the new movie, it was okay.",283,104,2026-04-23,Facebook
+POST_1171,user_297,The new iPhone is great and has awesome features,3090,786,2026-05-09,Twitter
+POST_1172,user_622,"I love this app, it is so easy to use",3967,856,2026-04-30,Facebook
+POST_1173,user_299,My phone battery drains too fast after the update #cricket,4542,447,2026-04-26,Twitter
+POST_1174,user_410,"Worst product ever, waste of money",1105,360,2026-05-08,Reddit
+POST_1175,user_281,Product launched today in the market,1278,100,2026-04-22,Facebook
+POST_1176,user_177,Cricket World Cup is getting intense!,4563,358,2026-05-04,Instagram
+POST_1177,user_102,Cricket World Cup is getting intense!,1679,95,2026-05-19,Reddit
+POST_1178,user_363,"This is terrible, completely useless",501,930,2026-05-05,Reddit
+POST_1179,user_322,This movie is amazing! lol,597,78,2026-05-06,Twitter
+POST_1180,user_236,"I love this app, it is so easy to use",4412,825,2026-04-27,Instagram
+POST_1181,user_154,The new iPhone is great and has awesome features smh,794,905,2026-05-08,Facebook
+POST_1182,user_282,"Not worth the price, totally disappointed.",2115,536,2026-05-05,YouTube
+POST_1183,user_636,"I hate the new update, it crashes constantly lol",4129,198,2026-04-28,Facebook
+POST_1184,user_903,The customer service was really bad and rude,313,99,2026-04-20,YouTube
+POST_1185,user_921,Apple just announced a new product event.,4054,78,2026-05-15,Reddit
+POST_1186,user_788,Learning AI and machine learning is fun,61,458,2026-04-26,Instagram
+POST_1187,user_178,Election results are shocking to say the least,3473,871,2026-05-14,Reddit
+POST_1188,user_897,"Just saw the new movie, it was okay. smh",4552,890,2026-04-23,Instagram
+POST_1189,user_324,Cricket World Cup is getting intense!,1945,653,2026-05-11,Facebook
+POST_1190,user_424,Apple just announced a new product event.,1836,192,2026-05-20,Twitter
+POST_1191,user_397,Awesome experience! Highly recommended.,3225,811,2026-04-28,YouTube
+POST_1192,user_585,Cricket World Cup is getting intense! #terrible,4351,464,2026-04-27,Facebook
+POST_1193,user_150,My phone battery drains too fast after the update,736,888,2026-05-06,Facebook
+POST_1194,user_443,AI tools are trending everywhere now,3544,445,2026-05-01,Facebook
+POST_1195,user_875,My phone battery drains too fast after the update,3652,119,2026-05-03,Twitter
+POST_1196,user_630,Can't wait for the cricket match tomorrow!!,1958,873,2026-05-12,Twitter
+POST_1197,user_314,Apple just announced a new product event.,4677,711,2026-05-10,Twitter
+POST_1198,user_557,Learning AI and machine learning is fun,1109,904,2026-05-18,Instagram
+POST_1199,user_341,My phone battery drains too fast after the update,2406,735,2026-04-21,YouTube
+POST_1200,user_874,"Worst product ever, waste of money",2305,246,2026-05-19,Instagram
+POST_1201,user_365,Cricket World Cup is getting intense!,327,449,2026-04-22,YouTube
+POST_1202,user_796,The new iPhone is great and has awesome features,433,766,2026-04-30,Instagram
+POST_1203,user_910,The new iPhone is great and has awesome features,1195,541,2026-05-18,Instagram
+POST_1204,user_237,The new iPhone is great and has awesome features,4774,359,2026-04-29,Twitter
+POST_1205,user_478,My phone battery drains too fast after the update,3077,726,2026-05-19,Twitter
+POST_1206,user_793,Product launched today in the market,3367,547,2026-05-08,Twitter
+POST_1207,user_285,The new iPhone is great and has awesome features,2871,555,2026-05-04,Twitter
+POST_1208,user_535,AI tools are trending everywhere now,1867,222,2026-04-24,Instagram
+POST_1209,user_807,Product launched today in the market lol,3047,356,2026-05-19,Facebook
+POST_1210,user_209,AI tools are trending everywhere now,4394,235,2026-05-01,Instagram
+POST_1211,user_473,Awesome experience! Highly recommended.,4595,710,2026-05-07,Facebook
+POST_1212,user_288,"Beautiful weather today, perfect for a walk.",4147,721,2026-04-23,Instagram
+POST_1213,user_516,Cricket World Cup is getting intense!,1574,368,2026-05-16,Reddit
+POST_1214,user_597,Product launched today in the market #AI,2886,510,2026-04-20,Facebook
+POST_1215,user_542,My phone battery drains too fast after the update,3609,888,2026-04-26,Reddit
+POST_1216,user_210,Loving the new AI features on this platform.,1445,993,2026-04-28,Twitter
+POST_1217,user_596,Learning AI and machine learning is fun,1047,854,2026-05-16,YouTube
+POST_1218,user_198,"Beautiful weather today, perfect for a walk.",4247,955,2026-05-13,Reddit
+POST_1219,user_569,Loving the new AI features on this platform. #AI,4887,157,2026-05-20,YouTube
+POST_1220,user_882,Apple just announced a new product event.,3831,157,2026-05-16,Facebook
+POST_1221,user_567,My phone battery drains too fast after the update,2822,430,2026-05-20,Instagram
+POST_1222,user_724,"This is terrible, completely useless",1506,803,2026-04-22,YouTube
+POST_1223,user_892,Product launched today in the market,3525,181,2026-04-24,Instagram
+POST_1224,user_834,The new iPhone is great and has awesome features,4472,562,2026-04-26,Reddit
+POST_1225,user_168,Election results are shocking to say the least,309,209,2026-05-17,Facebook
+POST_1226,user_939,"Worst product ever, waste of money",3507,322,2026-04-23,Facebook
+POST_1227,user_722,"I love this app, it is so easy to use",1617,357,2026-05-01,Twitter
+POST_1228,user_943,Loving the new AI features on this platform.,2984,699,2026-05-11,Instagram
+POST_1229,user_497,The new iPhone is great and has awesome features,4660,902,2026-05-20,Facebook
+POST_1230,user_757,"This is terrible, completely useless #AI",3466,162,2026-05-11,YouTube
+POST_1231,user_503,Election results are shocking to say the least smh,2630,818,2026-05-13,YouTube
+POST_1232,user_904,"Beautiful weather today, perfect for a walk.",3684,125,2026-04-30,Twitter
+POST_1233,user_811,"Beautiful weather today, perfect for a walk.",3518,308,2026-05-03,Facebook
+POST_1234,user_447,"Beautiful weather today, perfect for a walk.",49,924,2026-04-30,Facebook
+POST_1235,user_956,Cricket World Cup is getting intense!,2290,641,2026-05-17,Twitter
+POST_1236,user_467,Product launched today in the market,4444,618,2026-04-22,Twitter
+POST_1237,user_589,My phone battery drains too fast after the update,842,306,2026-04-26,Reddit
+POST_1238,user_674,"Beautiful weather today, perfect for a walk.",3817,444,2026-05-05,Facebook
+POST_1239,user_433,The new iPhone is great and has awesome features,3543,343,2026-04-20,Facebook
+POST_1240,user_665,The new iPhone is great and has awesome features,4748,476,2026-05-09,Reddit
+POST_1241,user_289,The customer service was really bad and rude,1354,360,2026-05-17,Twitter
+POST_1242,user_185,The new iPhone is great and has awesome features,4084,375,2026-05-20,Instagram
+POST_1243,user_128,Cricket World Cup is getting intense!,2748,393,2026-04-30,YouTube
+POST_1244,user_954,Loving the new AI features on this platform.,1693,182,2026-04-25,Facebook
+POST_1245,user_904,Can't wait for the cricket match tomorrow!! #AI,355,963,2026-04-23,Instagram
+POST_1246,user_229,"Worst product ever, waste of money",4851,212,2026-05-12,Facebook
+POST_1247,user_366,Apple just announced a new product event.,4624,879,2026-04-25,Facebook
+POST_1248,user_741,"I love this app, it is so easy to use",4553,235,2026-04-29,Facebook
+POST_1249,user_104,"Not worth the price, totally disappointed.",123,237,2026-05-08,Reddit
+POST_1250,user_732,The customer service was really bad and rude,3874,549,2026-04-27,Reddit
+POST_1251,user_505,"I hate the new update, it crashes constantly",1040,287,2026-04-26,Twitter
+POST_1252,user_534,AI tools are trending everywhere now lol,1540,934,2026-04-20,Facebook
+POST_1253,user_163,"I love this app, it is so easy to use",2706,688,2026-05-05,Twitter
+POST_1254,user_100,"Beautiful weather today, perfect for a walk.",946,765,2026-05-10,Twitter
+POST_1255,user_391,"Worst product ever, waste of money",2910,498,2026-05-07,Facebook
+POST_1256,user_776,"I love this app, it is so easy to use",3378,520,2026-04-28,Twitter
+POST_1257,user_318,Loving the new AI features on this platform.,1955,492,2026-05-07,Instagram
+POST_1258,user_845,The new iPhone is great and has awesome features,2296,152,2026-04-28,Instagram
+POST_1259,user_723,Can't wait for the cricket match tomorrow!! #terrible,3496,718,2026-05-11,Facebook
+POST_1260,user_878,My phone battery drains too fast after the update #awesome,4830,559,2026-04-21,Reddit
+POST_1261,user_556,"This is terrible, completely useless",4105,222,2026-05-18,Instagram
+POST_1262,user_140,"I hate the new update, it crashes constantly",432,914,2026-04-23,Facebook
+POST_1263,user_954,"Not worth the price, totally disappointed. smh",4912,549,2026-05-01,Reddit
+POST_1264,user_753,"I hate the new update, it crashes constantly",4862,488,2026-05-19,YouTube
+POST_1265,user_545,The customer service was really bad and rude,4178,367,2026-05-16,Instagram
+POST_1266,user_798,Can't wait for the cricket match tomorrow!!,79,688,2026-04-20,Instagram
+POST_1267,user_853,"Not worth the price, totally disappointed. #AI",1319,82,2026-05-04,Reddit
+POST_1268,user_754,Election results are shocking to say the least,1471,848,2026-04-23,YouTube
+POST_1269,user_514,Apple just announced a new product event.,1161,931,2026-05-06,Twitter
+POST_1270,user_641,"Not worth the price, totally disappointed. #awesome",4300,829,2026-04-21,Twitter
+POST_1271,user_925,Cricket World Cup is getting intense!,1989,898,2026-04-21,Reddit
+POST_1272,user_615,Election results are shocking to say the least #AI,212,66,2026-04-26,Instagram
+POST_1273,user_547,"Beautiful weather today, perfect for a walk.",4406,345,2026-05-16,Twitter
+POST_1274,user_281,The customer service was really bad and rude,23,526,2026-05-19,YouTube
+POST_1275,user_244,Loving the new AI features on this platform.,2382,846,2026-05-17,YouTube
+POST_1276,user_951,Cricket World Cup is getting intense!,2055,428,2026-04-21,Reddit
+POST_1277,user_617,"Not worth the price, totally disappointed.",3115,217,2026-04-23,Reddit
+POST_1278,user_647,Awesome experience! Highly recommended.,861,58,2026-05-03,Twitter
+POST_1279,user_268,"I love this app, it is so easy to use",2817,54,2026-04-23,Twitter
+POST_1280,user_412,"This is terrible, completely useless",162,53,2026-05-06,YouTube
+POST_1281,user_522,"Worst product ever, waste of money",2621,931,2026-05-09,Reddit
+POST_1282,user_403,My phone battery drains too fast after the update wow,112,234,2026-05-19,Reddit
+POST_1283,user_748,"Beautiful weather today, perfect for a walk.",4630,78,2026-05-04,Instagram
+POST_1284,user_743,Learning AI and machine learning is fun,3622,26,2026-05-13,YouTube
+POST_1285,user_793,The customer service was really bad and rude,849,49,2026-05-20,Twitter
+POST_1286,user_639,"I love this app, it is so easy to use",1561,370,2026-04-27,Twitter
+POST_1287,user_183,Cricket World Cup is getting intense!,2655,944,2026-04-26,YouTube
+POST_1288,user_166,"Beautiful weather today, perfect for a walk.",1018,606,2026-05-19,Twitter
+POST_1289,user_711,Loving the new AI features on this platform.,4901,219,2026-05-13,Instagram
+POST_1290,user_432,The new iPhone is great and has awesome features,643,963,2026-05-14,Twitter
+POST_1291,user_639,"I love this app, it is so easy to use #cricket",4999,206,2026-05-06,YouTube
+POST_1292,user_203,"Worst product ever, waste of money smh",303,657,2026-05-17,YouTube
+POST_1293,user_882,Cricket World Cup is getting intense!,1664,771,2026-04-27,Twitter
+POST_1294,user_158,"Not worth the price, totally disappointed. smh",3862,183,2026-04-23,Twitter
+POST_1295,user_696,Election results are shocking to say the least,4728,789,2026-05-04,YouTube
+POST_1296,user_762,The customer service was really bad and rude,2327,196,2026-04-30,Twitter
+POST_1297,user_601,My phone battery drains too fast after the update,4755,544,2026-05-15,Reddit
+POST_1298,user_954,Apple just announced a new product event.,3707,82,2026-04-22,Facebook
+POST_1299,user_506,"This is terrible, completely useless smh",1279,554,2026-04-27,Instagram
+POST_1300,user_313,Election results are shocking to say the least,4190,867,2026-05-19,Twitter
+POST_1301,user_989,Awesome experience! Highly recommended.,3854,601,2026-04-28,YouTube
+POST_1302,user_416,"I love this app, it is so easy to use",1359,971,2026-04-23,Facebook
+POST_1303,user_502,This movie is amazing! wow,4914,657,2026-04-27,YouTube
+POST_1304,user_577,Election results are shocking to say the least,2832,395,2026-04-29,Twitter
+POST_1305,user_425,"I hate the new update, it crashes constantly",4613,635,2026-05-17,Instagram
+POST_1306,user_899,"Worst product ever, waste of money",4166,984,2026-05-06,Reddit
+POST_1307,user_912,This movie is amazing!,3946,176,2026-05-09,Instagram
+POST_1308,user_883,The new iPhone is great and has awesome features,1540,368,2026-05-20,Instagram
+POST_1309,user_602,The customer service was really bad and rude #AI,2457,354,2026-05-04,YouTube
+POST_1310,user_875,"Worst product ever, waste of money",3529,349,2026-04-22,YouTube
+POST_1311,user_150,"Just saw the new movie, it was okay.",657,47,2026-05-01,Facebook
+POST_1312,user_757,Election results are shocking to say the least #cricket,229,346,2026-04-20,Reddit
+POST_1313,user_144,The customer service was really bad and rude,1904,884,2026-05-19,Instagram
+POST_1314,user_680,"Not worth the price, totally disappointed.",4633,18,2026-04-28,Reddit
+POST_1315,user_482,"Just saw the new movie, it was okay.",3343,944,2026-04-28,Facebook
+POST_1316,user_940,"Not worth the price, totally disappointed.",2606,247,2026-05-14,Instagram
+POST_1317,user_176,Cricket World Cup is getting intense!,4461,849,2026-05-08,Reddit
+POST_1318,user_120,"Just saw the new movie, it was okay.",4142,738,2026-05-15,Facebook
+POST_1319,user_805,The new iPhone is great and has awesome features,2443,51,2026-05-20,Facebook
+POST_1320,user_903,Loving the new AI features on this platform.,174,788,2026-05-07,YouTube
+POST_1321,user_765,The customer service was really bad and rude,1614,209,2026-05-14,Facebook
+POST_1322,user_548,The customer service was really bad and rude,3665,408,2026-05-10,Twitter
+POST_1323,user_913,"Just saw the new movie, it was okay.",1235,534,2026-05-08,Reddit
+POST_1324,user_577,Learning AI and machine learning is fun,4399,665,2026-04-26,Facebook
+POST_1325,user_221,"This is terrible, completely useless",3690,579,2026-05-20,Twitter
+POST_1326,user_875,The new iPhone is great and has awesome features,3758,932,2026-04-21,Reddit
+POST_1327,user_185,Product launched today in the market,1527,40,2026-05-14,YouTube
+POST_1328,user_922,My phone battery drains too fast after the update,3449,446,2026-05-17,Facebook
+POST_1329,user_468,My phone battery drains too fast after the update,2370,632,2026-04-26,Instagram
+POST_1330,user_275,AI tools are trending everywhere now #awesome,914,597,2026-05-16,YouTube
+POST_1331,user_337,Loving the new AI features on this platform.,4707,633,2026-04-28,Twitter
+POST_1332,user_279,Learning AI and machine learning is fun,932,798,2026-05-20,Reddit
+POST_1333,user_131,The new iPhone is great and has awesome features lol,2343,142,2026-04-21,Facebook
+POST_1334,user_786,"Beautiful weather today, perfect for a walk.",757,789,2026-05-18,Reddit
+POST_1335,user_373,AI tools are trending everywhere now,1587,758,2026-05-19,Reddit
+POST_1336,user_770,"Not worth the price, totally disappointed. smh",315,550,2026-04-26,Reddit
+POST_1337,user_743,"I hate the new update, it crashes constantly lol",2072,109,2026-05-16,Reddit
+POST_1338,user_444,The customer service was really bad and rude smh,4265,730,2026-05-13,Facebook
+POST_1339,user_673,Can't wait for the cricket match tomorrow!! #cricket,757,490,2026-05-09,Reddit
+POST_1340,user_413,The new iPhone is great and has awesome features smh,2500,635,2026-05-08,Instagram
+POST_1341,user_443,"I love this app, it is so easy to use",1271,349,2026-05-16,Facebook
+POST_1342,user_819,The new iPhone is great and has awesome features,3616,162,2026-05-09,Twitter
+POST_1343,user_134,Can't wait for the cricket match tomorrow!! #awesome,4203,23,2026-05-12,YouTube
+POST_1344,user_479,This movie is amazing!,2604,745,2026-04-28,Reddit
+POST_1345,user_239,Learning AI and machine learning is fun wow,1943,884,2026-05-03,Reddit
+POST_1346,user_261,"I love this app, it is so easy to use",2069,586,2026-04-28,Instagram
+POST_1347,user_525,This movie is amazing!,3384,459,2026-04-25,Facebook
+POST_1348,user_377,AI tools are trending everywhere now,961,616,2026-05-16,Instagram
+POST_1349,user_396,"I love this app, it is so easy to use",2580,799,2026-05-14,Reddit
+POST_1350,user_407,The new iPhone is great and has awesome features,2674,579,2026-04-25,Reddit
+POST_1351,user_263,Apple just announced a new product event.,4613,732,2026-05-13,Reddit
+POST_1352,user_491,"Not worth the price, totally disappointed.",1580,720,2026-04-25,Reddit
+POST_1353,user_814,Apple just announced a new product event.,2039,373,2026-04-23,Instagram
+POST_1354,user_213,"Worst product ever, waste of money",1709,563,2026-05-12,YouTube
+POST_1355,user_960,"I hate the new update, it crashes constantly",424,212,2026-04-21,Twitter
+POST_1356,user_680,Product launched today in the market,2775,278,2026-04-28,Instagram
+POST_1357,user_912,Apple just announced a new product event.,289,174,2026-04-24,YouTube
+POST_1358,user_278,AI tools are trending everywhere now,1952,648,2026-05-12,YouTube
+POST_1359,user_485,"I hate the new update, it crashes constantly",824,25,2026-05-18,Instagram
+POST_1360,user_533,My phone battery drains too fast after the update #cricket,2994,15,2026-05-12,Reddit
+POST_1361,user_293,Learning AI and machine learning is fun,3999,371,2026-04-21,Twitter
+POST_1362,user_397,"Not worth the price, totally disappointed.",4435,257,2026-04-22,Instagram
+POST_1363,user_900,"This is terrible, completely useless",3534,275,2026-05-11,Twitter
+POST_1364,user_445,"Worst product ever, waste of money",1981,764,2026-05-05,Twitter
+POST_1365,user_174,"I love this app, it is so easy to use smh",3734,813,2026-05-08,YouTube
+POST_1366,user_240,My phone battery drains too fast after the update,3199,915,2026-04-29,Twitter
+POST_1367,user_993,Product launched today in the market #cricket,2299,110,2026-05-01,Facebook
+POST_1368,user_681,Can't wait for the cricket match tomorrow!!,4571,944,2026-05-16,Instagram
+POST_1369,user_145,Awesome experience! Highly recommended.,2170,149,2026-04-20,Reddit
+POST_1370,user_372,"I love this app, it is so easy to use",4534,73,2026-05-13,Instagram
+POST_1371,user_366,Loving the new AI features on this platform.,3266,937,2026-04-20,Facebook
+POST_1372,user_968,Loving the new AI features on this platform.,3846,306,2026-05-09,Instagram
+POST_1373,user_861,"Worst product ever, waste of money smh",4045,801,2026-04-22,Twitter
+POST_1374,user_349,"Just saw the new movie, it was okay.",2845,9,2026-05-20,Instagram
+POST_1375,user_541,Election results are shocking to say the least,1749,568,2026-05-17,Twitter
+POST_1376,user_958,This movie is amazing!,1715,568,2026-04-29,Instagram
+POST_1377,user_193,Awesome experience! Highly recommended.,3502,259,2026-05-06,Twitter
+POST_1378,user_350,Awesome experience! Highly recommended. #awesome,3590,850,2026-05-11,Reddit
+POST_1379,user_292,Learning AI and machine learning is fun,4275,348,2026-05-12,Reddit
+POST_1380,user_987,The customer service was really bad and rude,1522,719,2026-05-04,YouTube
+POST_1381,user_122,Learning AI and machine learning is fun,443,774,2026-05-02,Twitter
+POST_1382,user_442,The customer service was really bad and rude,1637,367,2026-05-06,Instagram
+POST_1383,user_622,"I love this app, it is so easy to use",4425,778,2026-05-19,Twitter
+POST_1384,user_400,The customer service was really bad and rude,762,445,2026-05-06,Twitter
+POST_1385,user_192,The customer service was really bad and rude,3609,548,2026-05-06,Twitter
+POST_1386,user_188,"I hate the new update, it crashes constantly",443,126,2026-04-30,Reddit
+POST_1387,user_174,Product launched today in the market,3255,840,2026-05-12,Instagram
+POST_1388,user_365,Learning AI and machine learning is fun,2857,458,2026-05-01,YouTube
+POST_1389,user_473,"Beautiful weather today, perfect for a walk.",2548,639,2026-05-02,Facebook
+POST_1390,user_625,Can't wait for the cricket match tomorrow!!,784,59,2026-05-12,Twitter
+POST_1391,user_632,"Just saw the new movie, it was okay.",2044,593,2026-05-12,Facebook
+POST_1392,user_573,The customer service was really bad and rude,1760,711,2026-05-16,YouTube
+POST_1393,user_655,"Not worth the price, totally disappointed.",4607,554,2026-05-05,Instagram
+POST_1394,user_202,Loving the new AI features on this platform.,1875,708,2026-04-29,Twitter
+POST_1395,user_603,Learning AI and machine learning is fun #AI,1624,964,2026-05-12,Twitter
+POST_1396,user_499,AI tools are trending everywhere now,3513,497,2026-05-04,YouTube
+POST_1397,user_368,The new iPhone is great and has awesome features,4169,706,2026-05-15,Reddit
+POST_1398,user_193,"This is terrible, completely useless",3015,57,2026-05-01,Twitter
+POST_1399,user_939,This movie is amazing!,4178,395,2026-05-19,Facebook
+POST_1400,user_608,Election results are shocking to say the least,463,225,2026-05-11,Facebook
+POST_1401,user_145,"I love this app, it is so easy to use",3523,345,2026-04-20,YouTube
+POST_1402,user_511,Election results are shocking to say the least,2404,161,2026-04-27,Instagram
+POST_1403,user_805,"This is terrible, completely useless",2750,629,2026-05-20,Reddit
+POST_1404,user_878,Can't wait for the cricket match tomorrow!!,443,295,2026-05-07,Facebook
+POST_1405,user_833,The customer service was really bad and rude,2743,872,2026-05-03,Reddit
+POST_1406,user_900,The customer service was really bad and rude,2398,55,2026-05-08,Reddit
+POST_1407,user_455,The new iPhone is great and has awesome features,2345,855,2026-05-17,Twitter
+POST_1408,user_353,Apple just announced a new product event.,3024,3,2026-04-26,Reddit
+POST_1409,user_414,"This is terrible, completely useless",1837,129,2026-05-14,YouTube
+POST_1410,user_753,This movie is amazing!,3524,712,2026-04-29,Facebook
+POST_1411,user_604,"This is terrible, completely useless",4289,704,2026-05-18,Twitter
+POST_1412,user_727,Loving the new AI features on this platform. wow,1003,286,2026-05-03,Twitter
+POST_1413,user_695,Product launched today in the market,188,105,2026-05-02,Facebook
+POST_1414,user_186,"Beautiful weather today, perfect for a walk. #AI",4451,384,2026-05-07,Twitter
+POST_1415,user_433,Product launched today in the market wow,343,915,2026-05-16,Instagram
+POST_1416,user_896,The new iPhone is great and has awesome features wow,4181,675,2026-05-06,Twitter
+POST_1417,user_745,"This is terrible, completely useless",2058,706,2026-05-19,Reddit
+POST_1418,user_154,Product launched today in the market #cricket,3021,329,2026-04-20,Reddit
+POST_1419,user_220,Apple just announced a new product event. #AI,3790,149,2026-05-06,Facebook
+POST_1420,user_397,My phone battery drains too fast after the update,2148,614,2026-05-04,Instagram
+POST_1421,user_718,The customer service was really bad and rude,4879,114,2026-04-22,Reddit
+POST_1422,user_234,Loving the new AI features on this platform.,719,125,2026-04-23,Facebook
+POST_1423,user_272,The customer service was really bad and rude,3962,52,2026-04-23,Instagram
+POST_1424,user_620,"Beautiful weather today, perfect for a walk.",1897,148,2026-04-27,Reddit
+POST_1425,user_942,Product launched today in the market #terrible,1389,400,2026-04-21,Reddit
+POST_1426,user_807,"This is terrible, completely useless",4280,256,2026-04-23,Twitter
+POST_1427,user_668,"This is terrible, completely useless",4607,917,2026-04-28,Twitter
+POST_1428,user_653,My phone battery drains too fast after the update,2383,25,2026-05-17,Twitter
+POST_1429,user_481,This movie is amazing!,4247,96,2026-05-02,Twitter
+POST_1430,user_857,"I hate the new update, it crashes constantly",285,643,2026-05-09,YouTube
+POST_1431,user_837,"I hate the new update, it crashes constantly",4813,272,2026-04-29,Facebook
+POST_1432,user_273,"This is terrible, completely useless",2357,953,2026-05-17,Facebook
+POST_1433,user_849,Cricket World Cup is getting intense!,2896,907,2026-05-15,Facebook
+POST_1434,user_483,"Beautiful weather today, perfect for a walk.",4361,792,2026-05-12,Facebook
+POST_1435,user_962,"Not worth the price, totally disappointed. wow",35,916,2026-04-26,Reddit
+POST_1436,user_810,AI tools are trending everywhere now,166,769,2026-04-25,YouTube
+POST_1437,user_195,"Beautiful weather today, perfect for a walk.",4636,651,2026-05-17,YouTube
+POST_1438,user_960,Product launched today in the market,70,780,2026-04-26,Facebook
+POST_1439,user_368,"This is terrible, completely useless",4663,97,2026-05-12,YouTube
+POST_1440,user_875,My phone battery drains too fast after the update,210,976,2026-05-07,Twitter
+POST_1441,user_670,"Not worth the price, totally disappointed.",2430,336,2026-04-25,Instagram
+POST_1442,user_599,Election results are shocking to say the least,795,652,2026-05-03,Facebook
+POST_1443,user_956,Awesome experience! Highly recommended.,1694,971,2026-04-24,Twitter
+POST_1444,user_141,"I hate the new update, it crashes constantly",2758,84,2026-05-13,Reddit
+POST_1445,user_690,The customer service was really bad and rude lol,1903,160,2026-05-10,Instagram
+POST_1446,user_390,Learning AI and machine learning is fun,4209,428,2026-04-26,Twitter
+POST_1447,user_333,"Not worth the price, totally disappointed.",4436,163,2026-05-15,Instagram
+POST_1448,user_185,Cricket World Cup is getting intense!,4652,84,2026-05-02,Instagram
+POST_1449,user_122,The customer service was really bad and rude,3925,542,2026-05-19,Instagram
+POST_1450,user_248,Cricket World Cup is getting intense!,817,415,2026-05-12,Twitter
+POST_1451,user_285,Awesome experience! Highly recommended. #awesome,4705,659,2026-05-04,Instagram
+POST_1452,user_728,The customer service was really bad and rude,2070,636,2026-05-09,Twitter
+POST_1453,user_281,Loving the new AI features on this platform.,1651,351,2026-05-01,Reddit
+POST_1454,user_434,"Just saw the new movie, it was okay.",2334,875,2026-04-21,Facebook
+POST_1455,user_252,Loving the new AI features on this platform.,4962,201,2026-05-04,Facebook
+POST_1456,user_441,"I love this app, it is so easy to use",2531,666,2026-05-07,Reddit
+POST_1457,user_685,Product launched today in the market,4977,489,2026-04-24,Instagram
+POST_1458,user_434,The new iPhone is great and has awesome features wow,1150,22,2026-05-20,Twitter
+POST_1459,user_303,"Just saw the new movie, it was okay. smh",594,463,2026-04-29,Reddit
+POST_1460,user_904,Loving the new AI features on this platform. lol,639,847,2026-05-02,Reddit
+POST_1461,user_944,"Not worth the price, totally disappointed. smh",4410,753,2026-05-16,Twitter
+POST_1462,user_128,AI tools are trending everywhere now #cricket,710,649,2026-05-05,Facebook
+POST_1463,user_944,"Beautiful weather today, perfect for a walk.",4499,664,2026-05-11,Instagram
+POST_1464,user_898,Can't wait for the cricket match tomorrow!!,48,966,2026-05-08,Reddit
+POST_1465,user_509,The customer service was really bad and rude,741,921,2026-05-06,Instagram
+POST_1466,user_593,Loving the new AI features on this platform.,3085,423,2026-04-22,Reddit
+POST_1467,user_517,Product launched today in the market #AI,4447,841,2026-05-07,Reddit
+POST_1468,user_689,The customer service was really bad and rude,2146,341,2026-04-23,Reddit
+POST_1469,user_526,"Beautiful weather today, perfect for a walk.",1812,777,2026-05-07,Reddit
+POST_1470,user_546,Loving the new AI features on this platform.,2473,763,2026-05-06,Reddit
+POST_1471,user_514,Awesome experience! Highly recommended.,3139,274,2026-05-10,Instagram
+POST_1472,user_105,Cricket World Cup is getting intense!,1040,89,2026-05-03,YouTube
+POST_1473,user_708,"Not worth the price, totally disappointed.",854,840,2026-04-26,Reddit
+POST_1474,user_634,Awesome experience! Highly recommended.,3342,261,2026-05-07,Instagram
+POST_1475,user_965,"Just saw the new movie, it was okay.",1014,385,2026-05-14,Twitter
+POST_1476,user_864,The customer service was really bad and rude,4658,522,2026-04-20,Twitter
+POST_1477,user_562,Can't wait for the cricket match tomorrow!!,1060,145,2026-05-02,YouTube
+POST_1478,user_815,"I love this app, it is so easy to use",2703,249,2026-04-20,Instagram
+POST_1479,user_959,"Worst product ever, waste of money",4098,177,2026-04-25,Twitter
+POST_1480,user_206,"This is terrible, completely useless",3785,811,2026-05-08,Instagram
+POST_1481,user_760,"This is terrible, completely useless",2437,523,2026-05-01,YouTube
+POST_1482,user_923,"Worst product ever, waste of money",4226,734,2026-04-27,Twitter
+POST_1483,user_550,Awesome experience! Highly recommended. #awesome,4100,188,2026-05-08,Twitter
+POST_1484,user_654,"Beautiful weather today, perfect for a walk.",4707,920,2026-05-09,Facebook
+POST_1485,user_732,Election results are shocking to say the least,3577,812,2026-05-07,Facebook
+POST_1486,user_938,My phone battery drains too fast after the update,4711,189,2026-04-20,YouTube
+POST_1487,user_691,"Just saw the new movie, it was okay. smh",509,667,2026-04-26,Twitter
+POST_1488,user_920,My phone battery drains too fast after the update #awesome,4180,440,2026-04-30,Twitter
+POST_1489,user_588,"This is terrible, completely useless",460,16,2026-05-18,Reddit
+POST_1490,user_946,"Just saw the new movie, it was okay.",1779,754,2026-04-30,Twitter
+POST_1491,user_751,"Worst product ever, waste of money",4107,382,2026-05-08,Instagram
+POST_1492,user_787,Cricket World Cup is getting intense!,2648,119,2026-05-01,Instagram
+POST_1493,user_557,Apple just announced a new product event. wow,454,840,2026-05-02,YouTube
+POST_1494,user_702,Product launched today in the market,17,394,2026-05-11,Facebook
+POST_1495,user_121,The customer service was really bad and rude,1824,404,2026-05-04,YouTube
+POST_1496,user_352,Product launched today in the market,2227,504,2026-05-15,Twitter
+POST_1497,user_665,"Worst product ever, waste of money",592,393,2026-04-26,YouTube
+POST_1498,user_448,My phone battery drains too fast after the update,3216,963,2026-05-11,Twitter
+POST_1499,user_237,"Beautiful weather today, perfect for a walk.",3669,32,2026-04-23,YouTube
+POST_1500,user_944,"Worst product ever, waste of money",3006,858,2026-05-07,Twitter
+POST_1501,user_486,"Worst product ever, waste of money",1631,655,2026-05-10,Reddit
+POST_1502,user_461,"Beautiful weather today, perfect for a walk.",1250,203,2026-05-15,Reddit
+POST_1503,user_273,Apple just announced a new product event.,1305,186,2026-05-12,Twitter
+POST_1504,user_700,"This is terrible, completely useless",3114,963,2026-05-07,YouTube
+POST_1505,user_116,The customer service was really bad and rude,3180,46,2026-05-17,Facebook
+POST_1506,user_396,"I hate the new update, it crashes constantly",1650,608,2026-05-01,Twitter
+POST_1507,user_993,Apple just announced a new product event.,3658,217,2026-05-18,Twitter
+POST_1508,user_317,This movie is amazing!,4065,859,2026-05-12,Twitter
+POST_1509,user_911,This movie is amazing!,3434,905,2026-04-23,Facebook
+POST_1510,user_328,Learning AI and machine learning is fun #cricket,3729,287,2026-05-19,Twitter
+POST_1511,user_167,Election results are shocking to say the least,4395,87,2026-04-23,Facebook
+POST_1512,user_720,"Just saw the new movie, it was okay. #cricket",3915,791,2026-04-24,Instagram
+POST_1513,user_596,This movie is amazing! smh,2358,55,2026-04-25,Reddit
+POST_1514,user_832,This movie is amazing!,1661,97,2026-05-20,Twitter
+POST_1515,user_562,This movie is amazing!,1927,494,2026-05-09,Reddit
+POST_1516,user_659,Cricket World Cup is getting intense!,487,697,2026-05-08,Instagram
+POST_1517,user_258,Learning AI and machine learning is fun,614,367,2026-04-22,Reddit
+POST_1518,user_962,"I love this app, it is so easy to use",4751,59,2026-05-07,Facebook
+POST_1519,user_438,"Just saw the new movie, it was okay.",4019,573,2026-05-02,Facebook
+POST_1520,user_350,"Beautiful weather today, perfect for a walk.",3217,929,2026-04-25,Facebook
+POST_1521,user_471,Election results are shocking to say the least,3722,864,2026-05-07,Twitter
+POST_1522,user_176,Can't wait for the cricket match tomorrow!!,4493,387,2026-05-15,Reddit
+POST_1523,user_781,Product launched today in the market smh,4811,94,2026-05-03,YouTube
+POST_1524,user_691,"Worst product ever, waste of money #AI",2831,421,2026-05-09,Facebook
+POST_1525,user_450,The customer service was really bad and rude,1278,848,2026-05-10,Reddit
+POST_1526,user_180,Can't wait for the cricket match tomorrow!!,2072,917,2026-04-25,Reddit
+POST_1527,user_228,"This is terrible, completely useless",2074,597,2026-04-29,Facebook
+POST_1528,user_745,Election results are shocking to say the least,1042,902,2026-05-12,Instagram
+POST_1529,user_846,"Worst product ever, waste of money",889,842,2026-05-20,Facebook
+POST_1530,user_159,Can't wait for the cricket match tomorrow!!,297,241,2026-04-23,Twitter
+POST_1531,user_669,"I hate the new update, it crashes constantly smh",2013,99,2026-05-05,Twitter
+POST_1532,user_815,The customer service was really bad and rude #terrible,3395,203,2026-04-30,Facebook
+POST_1533,user_928,"This is terrible, completely useless",77,739,2026-05-08,Reddit
+POST_1534,user_424,Election results are shocking to say the least,4385,681,2026-05-11,Twitter
+POST_1535,user_803,"I hate the new update, it crashes constantly #awesome",2380,457,2026-05-14,Reddit
+POST_1536,user_701,My phone battery drains too fast after the update,3129,360,2026-05-07,Reddit
+POST_1537,user_364,The customer service was really bad and rude,1609,632,2026-05-11,Instagram
+POST_1538,user_523,"Beautiful weather today, perfect for a walk.",1832,856,2026-05-17,Instagram
+POST_1539,user_464,"Just saw the new movie, it was okay.",870,620,2026-05-02,Facebook
+POST_1540,user_205,Awesome experience! Highly recommended.,4822,982,2026-05-08,Instagram
+POST_1541,user_441,Product launched today in the market,1061,206,2026-05-08,YouTube
+POST_1542,user_949,AI tools are trending everywhere now,4015,904,2026-04-24,YouTube
+POST_1543,user_890,"Beautiful weather today, perfect for a walk.",2997,477,2026-05-06,Reddit
+POST_1544,user_686,Learning AI and machine learning is fun,3374,433,2026-05-15,Twitter
+POST_1545,user_205,The customer service was really bad and rude,2788,206,2026-05-10,Twitter
+POST_1546,user_192,My phone battery drains too fast after the update smh,1006,133,2026-05-10,YouTube
+POST_1547,user_200,Awesome experience! Highly recommended. #cricket,2034,22,2026-04-26,Reddit
+POST_1548,user_363,This movie is amazing! #AI,331,836,2026-05-13,Reddit
+POST_1549,user_604,My phone battery drains too fast after the update,2030,723,2026-05-06,Reddit
+POST_1550,user_699,Cricket World Cup is getting intense!,1857,343,2026-05-11,Twitter
+POST_1551,user_918,"I hate the new update, it crashes constantly",3175,716,2026-05-15,YouTube
+POST_1552,user_848,Can't wait for the cricket match tomorrow!! lol,4474,308,2026-05-17,Facebook
+POST_1553,user_961,This movie is amazing!,4039,615,2026-05-15,Reddit
+POST_1554,user_210,"I love this app, it is so easy to use",1156,714,2026-04-21,YouTube
+POST_1555,user_752,The customer service was really bad and rude,74,108,2026-05-18,Twitter
+POST_1556,user_685,"This is terrible, completely useless",2375,590,2026-05-14,Reddit
+POST_1557,user_608,This movie is amazing!,3186,806,2026-04-30,YouTube
+POST_1558,user_254,Product launched today in the market #cricket,2749,11,2026-04-27,YouTube
+POST_1559,user_949,This movie is amazing! lol,1997,818,2026-04-27,Facebook
+POST_1560,user_743,"I love this app, it is so easy to use #awesome",4778,913,2026-04-23,Facebook
+POST_1561,user_361,"I hate the new update, it crashes constantly #cricket",1543,769,2026-05-01,Facebook
+POST_1562,user_303,Awesome experience! Highly recommended.,3486,274,2026-04-20,Facebook
+POST_1563,user_546,The new iPhone is great and has awesome features,685,644,2026-04-27,YouTube
+POST_1564,user_407,Can't wait for the cricket match tomorrow!!,4961,327,2026-04-23,Instagram
+POST_1565,user_263,AI tools are trending everywhere now,273,147,2026-04-25,Reddit
+POST_1566,user_487,"I hate the new update, it crashes constantly #terrible",2935,481,2026-04-23,Facebook
+POST_1567,user_984,Election results are shocking to say the least,1457,94,2026-05-19,Facebook
+POST_1568,user_880,Election results are shocking to say the least,4191,888,2026-04-24,Facebook
+POST_1569,user_494,Loving the new AI features on this platform.,3067,428,2026-05-14,Twitter
+POST_1570,user_935,"Not worth the price, totally disappointed.",12,485,2026-05-06,YouTube
+POST_1571,user_652,"Just saw the new movie, it was okay.",3070,231,2026-05-06,Facebook
+POST_1572,user_540,Awesome experience! Highly recommended.,4097,59,2026-05-01,YouTube
+POST_1573,user_126,Loving the new AI features on this platform.,211,774,2026-04-22,Facebook
+POST_1574,user_796,Learning AI and machine learning is fun wow,1902,807,2026-04-26,Reddit
+POST_1575,user_646,"Not worth the price, totally disappointed.",2544,268,2026-05-19,Twitter
+POST_1576,user_522,"Just saw the new movie, it was okay.",1488,565,2026-05-15,YouTube
+POST_1577,user_192,"I hate the new update, it crashes constantly",2589,10,2026-05-05,Reddit
+POST_1578,user_784,"Beautiful weather today, perfect for a walk.",4224,296,2026-04-26,Reddit
+POST_1579,user_166,Election results are shocking to say the least smh,906,258,2026-05-18,Facebook
+POST_1580,user_930,Awesome experience! Highly recommended.,2691,764,2026-04-28,Twitter
+POST_1581,user_834,AI tools are trending everywhere now smh,3799,787,2026-05-02,Facebook
+POST_1582,user_295,"I love this app, it is so easy to use smh",3333,628,2026-05-04,Facebook
+POST_1583,user_330,"Worst product ever, waste of money",3111,924,2026-05-07,Facebook
+POST_1584,user_773,Awesome experience! Highly recommended.,3299,724,2026-05-19,Reddit
+POST_1585,user_236,Learning AI and machine learning is fun,2099,262,2026-04-23,Twitter
+POST_1586,user_937,Cricket World Cup is getting intense!,2154,684,2026-05-18,Facebook
+POST_1587,user_934,My phone battery drains too fast after the update wow,659,970,2026-05-12,Instagram
+POST_1588,user_686,"This is terrible, completely useless",3700,234,2026-04-23,YouTube
+POST_1589,user_799,Can't wait for the cricket match tomorrow!!,2083,859,2026-05-08,YouTube
+POST_1590,user_580,AI tools are trending everywhere now,208,789,2026-05-19,YouTube
+POST_1591,user_911,"Not worth the price, totally disappointed.",3663,137,2026-05-15,Instagram
+POST_1592,user_152,Awesome experience! Highly recommended.,916,831,2026-05-11,Reddit
+POST_1593,user_876,The customer service was really bad and rude #cricket,4903,811,2026-04-22,Instagram
+POST_1594,user_207,Learning AI and machine learning is fun,4977,156,2026-04-20,Facebook
+POST_1595,user_404,My phone battery drains too fast after the update,1164,440,2026-04-23,Facebook
+POST_1596,user_882,Product launched today in the market #cricket,4486,482,2026-04-29,YouTube
+POST_1597,user_454,"I love this app, it is so easy to use",4235,638,2026-05-12,Twitter
+POST_1598,user_864,"Not worth the price, totally disappointed.",3109,789,2026-05-03,Reddit
+POST_1599,user_869,Loving the new AI features on this platform.,922,544,2026-05-02,Reddit
+POST_1600,user_874,"Not worth the price, totally disappointed.",3917,644,2026-04-25,YouTube
+POST_1601,user_319,"I hate the new update, it crashes constantly",1617,459,2026-05-02,Facebook
+POST_1602,user_681,"I love this app, it is so easy to use #AI",3363,298,2026-05-03,Instagram
+POST_1603,user_153,The new iPhone is great and has awesome features,4291,371,2026-05-17,Instagram
+POST_1604,user_613,"Worst product ever, waste of money #terrible",3695,525,2026-05-05,YouTube
+POST_1605,user_638,"This is terrible, completely useless",2703,308,2026-05-14,Instagram
+POST_1606,user_281,AI tools are trending everywhere now,515,426,2026-05-09,Facebook
+POST_1607,user_480,"Beautiful weather today, perfect for a walk.",181,639,2026-05-02,Twitter
+POST_1608,user_992,The customer service was really bad and rude,3104,974,2026-04-26,Instagram
+POST_1609,user_413,"Just saw the new movie, it was okay. lol",1421,88,2026-05-14,Instagram
+POST_1610,user_943,Learning AI and machine learning is fun,1292,714,2026-05-10,Facebook
+POST_1611,user_611,Apple just announced a new product event. #cricket,2261,837,2026-04-22,Twitter
+POST_1612,user_668,"Just saw the new movie, it was okay.",4558,60,2026-04-27,YouTube
+POST_1613,user_650,My phone battery drains too fast after the update,3732,721,2026-05-06,Facebook
+POST_1614,user_352,"Beautiful weather today, perfect for a walk. #terrible",2232,922,2026-05-16,Instagram
+POST_1615,user_947,Loving the new AI features on this platform.,730,923,2026-04-24,Reddit
+POST_1616,user_753,Loving the new AI features on this platform.,1965,599,2026-05-11,YouTube
+POST_1617,user_543,AI tools are trending everywhere now,2602,612,2026-04-28,Twitter
+POST_1618,user_130,Cricket World Cup is getting intense!,1890,304,2026-05-11,YouTube
+POST_1619,user_537,Loving the new AI features on this platform.,3525,25,2026-05-15,YouTube
+POST_1620,user_524,AI tools are trending everywhere now,695,325,2026-04-23,Instagram
+POST_1621,user_274,Apple just announced a new product event.,1920,423,2026-05-09,YouTube
+POST_1622,user_645,"I love this app, it is so easy to use",3025,744,2026-04-24,YouTube
+POST_1623,user_130,Learning AI and machine learning is fun,1177,654,2026-04-25,Twitter
+POST_1624,user_666,"I love this app, it is so easy to use",1152,700,2026-05-08,YouTube
+POST_1625,user_699,"I hate the new update, it crashes constantly #terrible",2586,191,2026-05-09,Reddit
+POST_1626,user_808,Product launched today in the market,2969,632,2026-05-09,Reddit
+POST_1627,user_395,Learning AI and machine learning is fun,3175,441,2026-04-30,Instagram
+POST_1628,user_231,"I hate the new update, it crashes constantly",270,481,2026-05-05,Twitter
+POST_1629,user_415,My phone battery drains too fast after the update,137,696,2026-05-15,Facebook
+POST_1630,user_702,Awesome experience! Highly recommended. smh,2089,18,2026-05-08,Facebook
+POST_1631,user_537,Election results are shocking to say the least,4287,171,2026-04-29,Instagram
+POST_1632,user_399,The new iPhone is great and has awesome features,831,201,2026-05-09,Instagram
+POST_1633,user_743,"This is terrible, completely useless",1076,203,2026-05-16,Reddit
+POST_1634,user_370,Loving the new AI features on this platform.,2703,673,2026-04-28,Instagram
+POST_1635,user_457,"This is terrible, completely useless",3802,134,2026-04-30,YouTube
+POST_1636,user_118,Product launched today in the market,3920,320,2026-05-07,Twitter
+POST_1637,user_476,Learning AI and machine learning is fun,4082,986,2026-05-18,YouTube
+POST_1638,user_396,"Beautiful weather today, perfect for a walk.",4772,594,2026-05-13,Twitter
+POST_1639,user_680,Product launched today in the market,1572,787,2026-04-26,Twitter
+POST_1640,user_501,Apple just announced a new product event.,1250,644,2026-04-21,Instagram
+POST_1641,user_785,Apple just announced a new product event. #AI,3252,824,2026-05-05,Facebook
+POST_1642,user_725,This movie is amazing!,2065,213,2026-05-13,Instagram
+POST_1643,user_463,Loving the new AI features on this platform.,136,752,2026-05-19,Reddit
+POST_1644,user_401,AI tools are trending everywhere now #terrible,3501,28,2026-04-25,Instagram
+POST_1645,user_171,My phone battery drains too fast after the update,3288,875,2026-04-26,Twitter
+POST_1646,user_841,"Worst product ever, waste of money",4196,979,2026-04-28,Facebook
+POST_1647,user_120,"Worst product ever, waste of money",4976,953,2026-05-04,Twitter
+POST_1648,user_961,Cricket World Cup is getting intense!,441,343,2026-05-17,YouTube
+POST_1649,user_602,Awesome experience! Highly recommended.,2691,331,2026-05-06,YouTube
+POST_1650,user_302,Cricket World Cup is getting intense!,3583,220,2026-05-11,Facebook
+POST_1651,user_915,The customer service was really bad and rude,2322,879,2026-05-07,Facebook
+POST_1652,user_107,Product launched today in the market,227,308,2026-04-24,Twitter
+POST_1653,user_231,Learning AI and machine learning is fun,1505,187,2026-05-07,YouTube
+POST_1654,user_727,The new iPhone is great and has awesome features,1,165,2026-04-25,YouTube
+POST_1655,user_877,Can't wait for the cricket match tomorrow!!,4116,190,2026-05-09,YouTube
+POST_1656,user_157,Learning AI and machine learning is fun lol,4317,45,2026-05-19,Twitter
+POST_1657,user_195,The customer service was really bad and rude lol,3185,5,2026-05-07,Twitter
+POST_1658,user_574,"I hate the new update, it crashes constantly",1183,245,2026-05-09,Facebook
+POST_1659,user_906,Can't wait for the cricket match tomorrow!!,839,396,2026-05-18,YouTube
+POST_1660,user_104,This movie is amazing! lol,2478,251,2026-05-05,Reddit
+POST_1661,user_447,The customer service was really bad and rude #AI,1265,301,2026-04-24,Instagram
+POST_1662,user_224,Cricket World Cup is getting intense!,682,671,2026-05-09,Instagram
+POST_1663,user_605,"I hate the new update, it crashes constantly",1790,898,2026-05-20,Reddit
+POST_1664,user_637,The new iPhone is great and has awesome features,245,719,2026-05-06,Twitter
+POST_1665,user_780,The new iPhone is great and has awesome features,624,473,2026-04-24,Twitter
+POST_1666,user_657,The new iPhone is great and has awesome features #AI,57,769,2026-04-24,Reddit
+POST_1667,user_255,Apple just announced a new product event.,4694,755,2026-04-28,Facebook
+POST_1668,user_893,Loving the new AI features on this platform. #cricket,3948,837,2026-05-05,Facebook
+POST_1669,user_720,Election results are shocking to say the least,1345,266,2026-04-29,YouTube
+POST_1670,user_703,Can't wait for the cricket match tomorrow!!,2005,425,2026-04-20,Facebook
+POST_1671,user_416,"Beautiful weather today, perfect for a walk.",4559,606,2026-04-25,Reddit
+POST_1672,user_941,Cricket World Cup is getting intense!,4951,619,2026-05-16,Instagram
+POST_1673,user_657,Loving the new AI features on this platform.,2087,514,2026-04-21,Instagram
+POST_1674,user_416,Can't wait for the cricket match tomorrow!!,506,314,2026-04-25,Reddit
+POST_1675,user_761,"Beautiful weather today, perfect for a walk. wow",2317,374,2026-05-12,Facebook
+POST_1676,user_227,AI tools are trending everywhere now,3007,778,2026-05-19,Reddit
+POST_1677,user_486,The customer service was really bad and rude,3561,881,2026-05-03,Facebook
+POST_1678,user_361,Learning AI and machine learning is fun,340,998,2026-05-18,Twitter
+POST_1679,user_511,Loving the new AI features on this platform.,3904,81,2026-05-13,Instagram
+POST_1680,user_702,"This is terrible, completely useless smh",1927,274,2026-05-02,YouTube
+POST_1681,user_149,This movie is amazing!,3432,643,2026-05-20,YouTube
+POST_1682,user_239,Apple just announced a new product event.,1486,692,2026-05-16,Twitter
+POST_1683,user_833,The new iPhone is great and has awesome features #terrible,247,73,2026-04-29,Facebook
+POST_1684,user_513,"I hate the new update, it crashes constantly",1019,477,2026-05-08,Twitter
+POST_1685,user_640,The customer service was really bad and rude,3817,805,2026-05-10,YouTube
+POST_1686,user_824,"This is terrible, completely useless",1355,717,2026-04-30,YouTube
+POST_1687,user_245,"This is terrible, completely useless",3149,636,2026-05-17,Instagram
+POST_1688,user_433,"Beautiful weather today, perfect for a walk.",4015,288,2026-04-24,YouTube
+POST_1689,user_299,My phone battery drains too fast after the update,300,647,2026-05-08,Twitter
+POST_1690,user_115,The new iPhone is great and has awesome features #awesome,942,384,2026-05-08,Facebook
+POST_1691,user_515,"This is terrible, completely useless",4453,542,2026-05-01,Instagram
+POST_1692,user_159,The customer service was really bad and rude,1449,251,2026-05-09,YouTube
+POST_1693,user_875,"Not worth the price, totally disappointed.",3728,543,2026-05-15,Twitter
+POST_1694,user_183,AI tools are trending everywhere now,4395,790,2026-05-09,Instagram
+POST_1695,user_103,"I love this app, it is so easy to use",3566,554,2026-05-03,YouTube
+POST_1696,user_962,Awesome experience! Highly recommended.,2615,274,2026-05-03,Facebook
+POST_1697,user_617,My phone battery drains too fast after the update,132,30,2026-05-15,Instagram
+POST_1698,user_548,Election results are shocking to say the least,4246,345,2026-05-17,Facebook
+POST_1699,user_540,"Just saw the new movie, it was okay.",965,381,2026-05-16,YouTube
+POST_1700,user_233,"Beautiful weather today, perfect for a walk.",2279,195,2026-05-07,YouTube
+POST_1701,user_939,Election results are shocking to say the least,2589,69,2026-05-09,YouTube
+POST_1702,user_859,"I love this app, it is so easy to use",1679,705,2026-05-08,Instagram
+POST_1703,user_813,Awesome experience! Highly recommended.,2164,748,2026-05-17,Reddit
+POST_1704,user_978,Cricket World Cup is getting intense!,959,648,2026-04-30,Twitter
+POST_1705,user_450,"Worst product ever, waste of money smh",599,115,2026-05-15,YouTube
+POST_1706,user_414,Apple just announced a new product event.,3910,920,2026-04-27,Twitter
+POST_1707,user_844,The customer service was really bad and rude #terrible,3798,723,2026-04-24,YouTube
+POST_1708,user_611,Awesome experience! Highly recommended.,3596,322,2026-04-24,Facebook
+POST_1709,user_490,Awesome experience! Highly recommended.,169,342,2026-05-08,Instagram
+POST_1710,user_351,AI tools are trending everywhere now,227,599,2026-04-29,YouTube
+POST_1711,user_317,"Not worth the price, totally disappointed.",112,783,2026-04-23,Facebook
+POST_1712,user_984,Loving the new AI features on this platform.,1648,267,2026-04-28,Twitter
+POST_1713,user_147,Product launched today in the market,4545,546,2026-05-08,Instagram
+POST_1714,user_967,"This is terrible, completely useless",4829,776,2026-04-23,Instagram
+POST_1715,user_271,Election results are shocking to say the least,2174,595,2026-04-24,Instagram
+POST_1716,user_822,My phone battery drains too fast after the update,4209,32,2026-04-23,Facebook
+POST_1717,user_352,"I love this app, it is so easy to use",81,284,2026-05-12,Reddit
+POST_1718,user_817,Can't wait for the cricket match tomorrow!!,1530,668,2026-05-18,Twitter
+POST_1719,user_263,The customer service was really bad and rude #cricket,1759,558,2026-04-29,Facebook
+POST_1720,user_354,The customer service was really bad and rude,377,86,2026-05-08,YouTube
+POST_1721,user_248,"Just saw the new movie, it was okay.",3381,535,2026-04-24,Instagram
+POST_1722,user_151,"I hate the new update, it crashes constantly #awesome",3244,302,2026-04-27,Twitter
+POST_1723,user_655,Learning AI and machine learning is fun,2226,28,2026-05-09,Reddit
+POST_1724,user_157,The customer service was really bad and rude,2750,972,2026-04-21,Instagram
+POST_1725,user_598,The customer service was really bad and rude,4374,684,2026-05-14,YouTube
+POST_1726,user_789,The new iPhone is great and has awesome features,266,979,2026-04-25,Facebook
+POST_1727,user_326,My phone battery drains too fast after the update,3752,421,2026-04-27,Instagram
+POST_1728,user_732,"Not worth the price, totally disappointed.",695,654,2026-04-29,Twitter
+POST_1729,user_599,The new iPhone is great and has awesome features #awesome,2606,743,2026-05-07,Instagram
+POST_1730,user_512,"Just saw the new movie, it was okay.",4686,611,2026-05-15,Instagram
+POST_1731,user_466,Loving the new AI features on this platform.,3768,393,2026-05-07,Twitter
+POST_1732,user_744,Learning AI and machine learning is fun,1255,464,2026-05-07,Facebook
+POST_1733,user_683,This movie is amazing!,441,175,2026-05-03,Facebook
+POST_1734,user_782,"I hate the new update, it crashes constantly",913,560,2026-05-05,Reddit
+POST_1735,user_871,"Not worth the price, totally disappointed. #awesome",4588,485,2026-05-09,Facebook
+POST_1736,user_966,Election results are shocking to say the least,2299,896,2026-05-20,Instagram
+POST_1737,user_752,Learning AI and machine learning is fun,4317,619,2026-05-17,Twitter
+POST_1738,user_999,"Not worth the price, totally disappointed.",3624,469,2026-05-16,Reddit
+POST_1739,user_656,"I love this app, it is so easy to use",1072,801,2026-05-04,Twitter
+POST_1740,user_463,AI tools are trending everywhere now,4684,415,2026-04-28,YouTube
+POST_1741,user_219,Can't wait for the cricket match tomorrow!! #awesome,3821,167,2026-04-25,YouTube
+POST_1742,user_309,AI tools are trending everywhere now smh,2433,180,2026-04-24,YouTube
+POST_1743,user_648,Learning AI and machine learning is fun,1693,440,2026-05-01,YouTube
+POST_1744,user_150,Learning AI and machine learning is fun,2325,928,2026-05-08,Twitter
+POST_1745,user_498,"Worst product ever, waste of money",4982,268,2026-04-21,Reddit
+POST_1746,user_330,Election results are shocking to say the least,2175,666,2026-04-27,Instagram
+POST_1747,user_226,"Just saw the new movie, it was okay. smh",3234,598,2026-05-20,Reddit
+POST_1748,user_911,"This is terrible, completely useless",3479,856,2026-05-05,Reddit
+POST_1749,user_162,My phone battery drains too fast after the update,2320,118,2026-04-20,YouTube
+POST_1750,user_484,Election results are shocking to say the least,4993,965,2026-05-05,Reddit
+POST_1751,user_613,"I hate the new update, it crashes constantly",1098,3,2026-05-02,Instagram
+POST_1752,user_869,Can't wait for the cricket match tomorrow!!,923,765,2026-04-23,Twitter
+POST_1753,user_986,"Not worth the price, totally disappointed.",1661,650,2026-05-13,YouTube
+POST_1754,user_232,Awesome experience! Highly recommended.,4382,59,2026-05-06,YouTube
+POST_1755,user_738,"This is terrible, completely useless",3277,453,2026-04-23,Reddit
+POST_1756,user_640,Product launched today in the market,3758,399,2026-04-24,Instagram
+POST_1757,user_986,"Not worth the price, totally disappointed. #AI",2115,482,2026-05-02,Instagram
+POST_1758,user_382,"Beautiful weather today, perfect for a walk.",4048,689,2026-05-19,YouTube
+POST_1759,user_305,Apple just announced a new product event.,3708,142,2026-04-30,Twitter
+POST_1760,user_822,"Worst product ever, waste of money",1452,429,2026-05-13,YouTube
+POST_1761,user_180,"This is terrible, completely useless wow",3516,418,2026-05-16,Facebook
+POST_1762,user_990,The new iPhone is great and has awesome features #AI,4638,154,2026-04-23,Twitter
+POST_1763,user_224,Apple just announced a new product event.,1728,158,2026-04-26,Instagram
+POST_1764,user_274,"Beautiful weather today, perfect for a walk.",1331,985,2026-05-04,Twitter
+POST_1765,user_904,"I hate the new update, it crashes constantly",2415,771,2026-04-29,Facebook
+POST_1766,user_926,"Not worth the price, totally disappointed. #awesome",2689,898,2026-04-23,Facebook
+POST_1767,user_151,My phone battery drains too fast after the update,1829,470,2026-05-01,Facebook
+POST_1768,user_728,Cricket World Cup is getting intense!,2437,427,2026-05-17,YouTube
+POST_1769,user_567,The customer service was really bad and rude wow,604,633,2026-05-16,Reddit
+POST_1770,user_325,Can't wait for the cricket match tomorrow!!,608,732,2026-04-30,Twitter
+POST_1771,user_781,Apple just announced a new product event.,4483,757,2026-05-20,Twitter
+POST_1772,user_431,Product launched today in the market,3684,155,2026-04-28,YouTube
+POST_1773,user_247,"This is terrible, completely useless #cricket",4544,338,2026-05-09,Facebook
+POST_1774,user_134,"This is terrible, completely useless lol",4314,363,2026-05-05,YouTube
+POST_1775,user_613,"Just saw the new movie, it was okay.",1679,187,2026-05-07,Reddit
+POST_1776,user_432,"This is terrible, completely useless",469,646,2026-04-22,Reddit
+POST_1777,user_319,Cricket World Cup is getting intense!,4986,549,2026-04-28,YouTube
+POST_1778,user_158,This movie is amazing! wow,3906,604,2026-05-10,Twitter
+POST_1779,user_849,"Just saw the new movie, it was okay.",3193,699,2026-05-10,Reddit
+POST_1780,user_374,Cricket World Cup is getting intense! #terrible,2791,973,2026-04-23,Twitter
+POST_1781,user_157,Can't wait for the cricket match tomorrow!!,4475,669,2026-05-09,Reddit
+POST_1782,user_603,The new iPhone is great and has awesome features,3649,125,2026-05-05,Instagram
+POST_1783,user_298,Election results are shocking to say the least,3689,813,2026-05-08,Facebook
+POST_1784,user_184,The customer service was really bad and rude,81,366,2026-05-06,Reddit
+POST_1785,user_408,"Worst product ever, waste of money lol",4156,332,2026-04-24,Facebook
+POST_1786,user_323,Awesome experience! Highly recommended.,3948,667,2026-04-22,Instagram
+POST_1787,user_990,Apple just announced a new product event.,4660,942,2026-05-12,Reddit
+POST_1788,user_432,This movie is amazing!,3004,736,2026-05-03,Reddit
+POST_1789,user_251,Election results are shocking to say the least #awesome,3707,689,2026-05-05,Reddit
+POST_1790,user_605,Learning AI and machine learning is fun #terrible,3417,143,2026-05-05,YouTube
+POST_1791,user_604,Election results are shocking to say the least,2951,386,2026-05-17,Facebook
+POST_1792,user_171,Loving the new AI features on this platform. #AI,2509,141,2026-05-09,Instagram
+POST_1793,user_764,Apple just announced a new product event. #terrible,4140,256,2026-05-10,Instagram
+POST_1794,user_675,"Worst product ever, waste of money",4861,312,2026-04-24,Twitter
+POST_1795,user_914,This movie is amazing! #cricket,4596,994,2026-05-12,YouTube
+POST_1796,user_919,"Beautiful weather today, perfect for a walk.",1589,130,2026-05-19,Instagram
+POST_1797,user_221,"Worst product ever, waste of money",3630,372,2026-05-18,Reddit
+POST_1798,user_386,Awesome experience! Highly recommended.,3219,545,2026-05-08,Twitter
+POST_1799,user_769,Election results are shocking to say the least #awesome,412,5,2026-04-24,Instagram
+POST_1800,user_164,"Worst product ever, waste of money",2509,587,2026-04-26,Reddit
+POST_1801,user_944,AI tools are trending everywhere now lol,797,475,2026-05-05,YouTube
+POST_1802,user_302,"I love this app, it is so easy to use",3788,988,2026-05-14,Instagram
+POST_1803,user_275,The new iPhone is great and has awesome features,4932,479,2026-05-04,Reddit
+POST_1804,user_675,Loving the new AI features on this platform. smh,2291,447,2026-04-20,Reddit
+POST_1805,user_102,The customer service was really bad and rude,968,486,2026-04-23,Reddit
+POST_1806,user_662,Can't wait for the cricket match tomorrow!!,884,189,2026-04-26,Instagram
+POST_1807,user_119,AI tools are trending everywhere now,3406,58,2026-04-27,Twitter
+POST_1808,user_390,The new iPhone is great and has awesome features,4077,122,2026-04-25,Facebook
+POST_1809,user_759,My phone battery drains too fast after the update,2853,562,2026-05-07,Twitter
+POST_1810,user_589,"Beautiful weather today, perfect for a walk.",2888,582,2026-05-17,Facebook
+POST_1811,user_388,"Worst product ever, waste of money",2905,950,2026-04-23,Reddit
+POST_1812,user_549,"This is terrible, completely useless #AI",1344,463,2026-05-06,Reddit
+POST_1813,user_248,Election results are shocking to say the least,2735,846,2026-05-17,Reddit
+POST_1814,user_637,Awesome experience! Highly recommended. #terrible,1841,55,2026-05-20,Instagram
+POST_1815,user_940,Apple just announced a new product event.,600,345,2026-05-13,Facebook
+POST_1816,user_274,"I hate the new update, it crashes constantly",242,243,2026-04-27,YouTube
+POST_1817,user_862,Can't wait for the cricket match tomorrow!!,2051,93,2026-04-28,YouTube
+POST_1818,user_532,AI tools are trending everywhere now,3377,34,2026-05-01,Instagram
+POST_1819,user_668,"I hate the new update, it crashes constantly #cricket",4914,28,2026-05-12,Reddit
+POST_1820,user_959,"Beautiful weather today, perfect for a walk.",4752,362,2026-05-02,Facebook
+POST_1821,user_580,Cricket World Cup is getting intense!,4429,762,2026-04-22,Reddit
+POST_1822,user_862,"I love this app, it is so easy to use",4946,660,2026-05-12,Instagram
+POST_1823,user_193,The customer service was really bad and rude,540,5,2026-04-20,Reddit
+POST_1824,user_845,"This is terrible, completely useless smh",2405,396,2026-04-26,Instagram
+POST_1825,user_846,Product launched today in the market,1338,92,2026-05-02,Facebook
+POST_1826,user_354,My phone battery drains too fast after the update,2497,352,2026-05-12,Instagram
+POST_1827,user_935,Loving the new AI features on this platform.,4450,284,2026-04-27,Facebook
+POST_1828,user_502,"Not worth the price, totally disappointed. #AI",1665,290,2026-05-04,Reddit
+POST_1829,user_646,Learning AI and machine learning is fun,935,783,2026-05-17,Reddit
+POST_1830,user_526,"I hate the new update, it crashes constantly",3807,313,2026-05-06,Instagram
+POST_1831,user_535,"Just saw the new movie, it was okay.",2057,611,2026-04-24,Instagram
+POST_1832,user_962,Loving the new AI features on this platform.,923,936,2026-05-20,Reddit
+POST_1833,user_463,AI tools are trending everywhere now,3358,219,2026-04-20,Facebook
+POST_1834,user_581,Learning AI and machine learning is fun #cricket,3957,712,2026-05-09,Instagram
+POST_1835,user_783,Learning AI and machine learning is fun #cricket,1544,38,2026-05-04,Facebook
+POST_1836,user_322,Can't wait for the cricket match tomorrow!!,3205,550,2026-05-06,YouTube
+POST_1837,user_220,Awesome experience! Highly recommended. lol,1838,939,2026-04-29,Reddit
+POST_1838,user_504,Loving the new AI features on this platform.,273,946,2026-04-28,YouTube
+POST_1839,user_905,Apple just announced a new product event.,3724,522,2026-04-28,Twitter
+POST_1840,user_648,The customer service was really bad and rude,4477,158,2026-05-06,YouTube
+POST_1841,user_142,Product launched today in the market,1006,457,2026-05-07,YouTube
+POST_1842,user_883,This movie is amazing!,3967,798,2026-05-19,Twitter
+POST_1843,user_632,"Worst product ever, waste of money",1718,481,2026-05-14,Twitter
+POST_1844,user_752,"I love this app, it is so easy to use #awesome",2016,448,2026-05-16,Instagram
+POST_1845,user_378,"This is terrible, completely useless lol",742,750,2026-05-07,Twitter
+POST_1846,user_649,Awesome experience! Highly recommended.,1483,911,2026-05-20,Reddit
+POST_1847,user_566,Learning AI and machine learning is fun #AI,69,896,2026-05-17,YouTube
+POST_1848,user_196,"This is terrible, completely useless #terrible",952,858,2026-04-20,Instagram
+POST_1849,user_950,The new iPhone is great and has awesome features smh,1486,800,2026-04-26,Twitter
+POST_1850,user_158,Cricket World Cup is getting intense!,3671,941,2026-05-04,Facebook
+POST_1851,user_790,Learning AI and machine learning is fun,2567,549,2026-05-15,Instagram
+POST_1852,user_497,"Beautiful weather today, perfect for a walk.",2290,281,2026-05-03,Facebook
+POST_1853,user_985,Can't wait for the cricket match tomorrow!!,1245,518,2026-05-03,YouTube
+POST_1854,user_311,"I love this app, it is so easy to use",449,950,2026-04-22,Facebook
+POST_1855,user_318,Can't wait for the cricket match tomorrow!!,857,113,2026-04-20,Facebook
+POST_1856,user_307,"Not worth the price, totally disappointed.",4803,100,2026-04-29,Instagram
+POST_1857,user_704,This movie is amazing!,1416,267,2026-05-13,Twitter
+POST_1858,user_477,The new iPhone is great and has awesome features #AI,4490,901,2026-05-08,YouTube
+POST_1859,user_937,"This is terrible, completely useless",255,990,2026-05-15,Reddit
+POST_1860,user_372,The customer service was really bad and rude,2586,393,2026-05-14,Facebook
+POST_1861,user_500,Awesome experience! Highly recommended. wow,3185,968,2026-04-26,Reddit
+POST_1862,user_819,Learning AI and machine learning is fun,4610,871,2026-05-17,Facebook
+POST_1863,user_592,"Not worth the price, totally disappointed.",353,477,2026-05-15,Reddit
+POST_1864,user_372,Apple just announced a new product event.,4527,561,2026-05-19,Facebook
+POST_1865,user_514,Apple just announced a new product event.,1977,254,2026-05-15,Instagram
+POST_1866,user_458,Can't wait for the cricket match tomorrow!!,3512,882,2026-05-10,Facebook
+POST_1867,user_260,Cricket World Cup is getting intense! smh,1275,555,2026-05-12,Reddit
+POST_1868,user_848,Loving the new AI features on this platform.,2600,879,2026-04-25,Twitter
+POST_1869,user_605,Loving the new AI features on this platform. #terrible,1313,187,2026-05-04,Reddit
+POST_1870,user_583,"Beautiful weather today, perfect for a walk. #cricket",4411,85,2026-05-20,Reddit
+POST_1871,user_355,"Just saw the new movie, it was okay.",1275,614,2026-04-22,Facebook
+POST_1872,user_888,Learning AI and machine learning is fun,882,502,2026-05-01,Twitter
+POST_1873,user_851,"Not worth the price, totally disappointed. #awesome",2974,803,2026-05-12,YouTube
+POST_1874,user_578,"Worst product ever, waste of money",133,817,2026-05-20,YouTube
+POST_1875,user_466,"I hate the new update, it crashes constantly",4951,495,2026-05-07,YouTube
+POST_1876,user_768,"Just saw the new movie, it was okay. lol",4338,649,2026-04-28,Reddit
+POST_1877,user_301,"Not worth the price, totally disappointed.",29,276,2026-04-24,YouTube
+POST_1878,user_999,"This is terrible, completely useless",3397,630,2026-04-30,Reddit
+POST_1879,user_682,"I hate the new update, it crashes constantly #awesome",3933,328,2026-04-27,Instagram
+POST_1880,user_816,The new iPhone is great and has awesome features,4049,80,2026-05-10,Reddit
+POST_1881,user_874,My phone battery drains too fast after the update,4509,469,2026-04-24,Facebook
+POST_1882,user_987,Learning AI and machine learning is fun #awesome,1672,400,2026-05-18,Instagram
+POST_1883,user_769,Cricket World Cup is getting intense!,4445,352,2026-05-04,Instagram
+POST_1884,user_765,My phone battery drains too fast after the update,1546,273,2026-05-15,Instagram
+POST_1885,user_727,The customer service was really bad and rude #terrible,1357,562,2026-05-11,YouTube
+POST_1886,user_466,Awesome experience! Highly recommended.,2466,177,2026-04-28,Reddit
+POST_1887,user_117,Cricket World Cup is getting intense!,1823,452,2026-04-26,Reddit
+POST_1888,user_923,"Just saw the new movie, it was okay.",2857,194,2026-04-28,Twitter
+POST_1889,user_276,Election results are shocking to say the least,2642,168,2026-05-07,Instagram
+POST_1890,user_704,"Not worth the price, totally disappointed.",4273,265,2026-05-03,YouTube
+POST_1891,user_501,Product launched today in the market,521,690,2026-05-12,Reddit
+POST_1892,user_728,"I love this app, it is so easy to use",4448,543,2026-05-02,Reddit
+POST_1893,user_736,Loving the new AI features on this platform.,343,308,2026-05-09,Instagram
+POST_1894,user_614,Learning AI and machine learning is fun,2560,155,2026-05-12,Twitter
+POST_1895,user_714,Loving the new AI features on this platform. wow,4175,284,2026-05-18,Facebook
+POST_1896,user_926,My phone battery drains too fast after the update,325,65,2026-05-19,YouTube
+POST_1897,user_471,This movie is amazing! lol,2835,530,2026-05-03,Twitter
+POST_1898,user_270,"Just saw the new movie, it was okay.",4549,893,2026-04-21,Facebook
+POST_1899,user_162,AI tools are trending everywhere now,409,443,2026-04-29,Reddit
+POST_1900,user_781,Election results are shocking to say the least #AI,1266,849,2026-05-19,Facebook
+POST_1901,user_705,AI tools are trending everywhere now,1652,243,2026-05-05,YouTube
+POST_1902,user_382,Apple just announced a new product event. #terrible,1739,828,2026-05-19,Twitter
+POST_1903,user_814,"This is terrible, completely useless",1637,912,2026-05-18,Reddit
+POST_1904,user_320,"Beautiful weather today, perfect for a walk.",2554,769,2026-05-11,Reddit
+POST_1905,user_721,"I hate the new update, it crashes constantly",4897,206,2026-04-29,Twitter
+POST_1906,user_736,Apple just announced a new product event.,3647,873,2026-04-23,YouTube
+POST_1907,user_298,Loving the new AI features on this platform.,1278,542,2026-05-02,Facebook
+POST_1908,user_335,"Worst product ever, waste of money",1551,23,2026-05-17,YouTube
+POST_1909,user_437,Awesome experience! Highly recommended.,4345,174,2026-05-17,Instagram
+POST_1910,user_443,Product launched today in the market #AI,4174,956,2026-04-21,Twitter
+POST_1911,user_108,"Not worth the price, totally disappointed.",2665,419,2026-04-28,Instagram
+POST_1912,user_911,My phone battery drains too fast after the update,4453,886,2026-05-04,Reddit
+POST_1913,user_197,The customer service was really bad and rude,2636,423,2026-05-09,Twitter
+POST_1914,user_311,Loving the new AI features on this platform.,1462,132,2026-05-02,Instagram
+POST_1915,user_335,Election results are shocking to say the least,3136,592,2026-05-13,Reddit
+POST_1916,user_160,"Not worth the price, totally disappointed.",3614,976,2026-04-26,YouTube
+POST_1917,user_672,AI tools are trending everywhere now,2928,615,2026-05-13,Facebook
+POST_1918,user_873,Election results are shocking to say the least,1564,151,2026-05-13,Twitter
+POST_1919,user_896,"I hate the new update, it crashes constantly",3545,562,2026-05-10,Twitter
+POST_1920,user_450,Can't wait for the cricket match tomorrow!!,304,357,2026-05-01,Twitter
+POST_1921,user_768,"Beautiful weather today, perfect for a walk.",4860,998,2026-04-20,Twitter
+POST_1922,user_530,"I love this app, it is so easy to use",705,619,2026-05-10,Facebook
+POST_1923,user_135,"I love this app, it is so easy to use",716,270,2026-05-18,Twitter
+POST_1924,user_211,"Worst product ever, waste of money",4374,79,2026-05-12,YouTube
+POST_1925,user_915,The new iPhone is great and has awesome features,2883,344,2026-05-03,Instagram
+POST_1926,user_618,"Just saw the new movie, it was okay.",3661,171,2026-04-26,YouTube
+POST_1927,user_588,"Not worth the price, totally disappointed. #AI",3533,272,2026-04-26,Facebook
+POST_1928,user_607,"This is terrible, completely useless #AI",933,829,2026-04-30,YouTube
+POST_1929,user_284,Cricket World Cup is getting intense!,563,412,2026-04-20,Twitter
+POST_1930,user_278,Election results are shocking to say the least,729,902,2026-04-29,Reddit
+POST_1931,user_909,"Not worth the price, totally disappointed.",3880,787,2026-04-20,Facebook
+POST_1932,user_453,"Worst product ever, waste of money",2474,659,2026-05-13,YouTube
+POST_1933,user_375,This movie is amazing!,1787,500,2026-04-24,Facebook
+POST_1934,user_814,The new iPhone is great and has awesome features,2747,625,2026-04-29,Reddit
+POST_1935,user_303,Can't wait for the cricket match tomorrow!! #AI,2292,359,2026-05-16,YouTube
+POST_1936,user_179,Apple just announced a new product event. lol,2793,347,2026-05-03,Facebook
+POST_1937,user_799,Can't wait for the cricket match tomorrow!!,3380,163,2026-04-21,Facebook
+POST_1938,user_373,Awesome experience! Highly recommended. #terrible,1872,147,2026-05-15,Instagram
+POST_1939,user_512,"Not worth the price, totally disappointed.",932,1000,2026-04-22,Instagram
+POST_1940,user_565,Can't wait for the cricket match tomorrow!!,3952,197,2026-05-05,Instagram
+POST_1941,user_645,The new iPhone is great and has awesome features,3611,293,2026-04-24,YouTube
+POST_1942,user_346,Learning AI and machine learning is fun,2746,312,2026-04-28,Instagram
+POST_1943,user_639,"Just saw the new movie, it was okay.",4553,703,2026-04-23,Reddit
+POST_1944,user_620,Can't wait for the cricket match tomorrow!!,4324,690,2026-05-19,Reddit
+POST_1945,user_610,Cricket World Cup is getting intense!,470,990,2026-04-27,Twitter
+POST_1946,user_797,"I love this app, it is so easy to use",2512,389,2026-05-01,YouTube
+POST_1947,user_178,This movie is amazing!,4840,322,2026-04-20,Reddit
+POST_1948,user_851,Election results are shocking to say the least #terrible,1480,70,2026-05-09,Twitter
+POST_1949,user_194,"Worst product ever, waste of money",4511,283,2026-05-12,Reddit
+POST_1950,user_264,Can't wait for the cricket match tomorrow!!,217,12,2026-05-15,Reddit
+POST_1951,user_864,Cricket World Cup is getting intense!,1886,932,2026-05-19,Facebook
+POST_1952,user_995,Loving the new AI features on this platform.,229,202,2026-04-24,Instagram
+POST_1953,user_605,Product launched today in the market,489,632,2026-05-11,Instagram
+POST_1954,user_919,"Worst product ever, waste of money",2360,847,2026-05-12,Instagram
+POST_1955,user_135,"Not worth the price, totally disappointed.",433,244,2026-05-14,YouTube
+POST_1956,user_978,"Worst product ever, waste of money",280,402,2026-04-22,YouTube
+POST_1957,user_637,"Not worth the price, totally disappointed. #AI",4038,94,2026-05-15,Reddit
+POST_1958,user_762,Awesome experience! Highly recommended.,1030,717,2026-05-20,Instagram
+POST_1959,user_161,Learning AI and machine learning is fun,3641,455,2026-04-26,Twitter
+POST_1960,user_834,Learning AI and machine learning is fun,1718,672,2026-04-22,Reddit
+POST_1961,user_486,"Just saw the new movie, it was okay.",4318,576,2026-05-01,Instagram
+POST_1962,user_696,My phone battery drains too fast after the update wow,1491,557,2026-05-06,Twitter
+POST_1963,user_417,"I hate the new update, it crashes constantly smh",3755,887,2026-05-16,Facebook
+POST_1964,user_681,"Not worth the price, totally disappointed.",4947,512,2026-05-20,Reddit
+POST_1965,user_914,"Worst product ever, waste of money",3318,131,2026-04-28,YouTube
+POST_1966,user_517,AI tools are trending everywhere now,4491,488,2026-04-20,Reddit
+POST_1967,user_668,The customer service was really bad and rude,214,138,2026-05-17,YouTube
+POST_1968,user_127,"Beautiful weather today, perfect for a walk.",1669,514,2026-04-24,Twitter
+POST_1969,user_813,Loving the new AI features on this platform. lol,1690,258,2026-05-17,Facebook
+POST_1970,user_295,Learning AI and machine learning is fun,4242,23,2026-05-12,Reddit
+POST_1971,user_615,Election results are shocking to say the least,4223,648,2026-05-05,Instagram
+POST_1972,user_514,"I hate the new update, it crashes constantly",4466,315,2026-05-04,Twitter
+POST_1973,user_344,The customer service was really bad and rude #cricket,4225,499,2026-05-13,Reddit
+POST_1974,user_444,"I hate the new update, it crashes constantly",112,203,2026-05-12,Instagram
+POST_1975,user_933,"Worst product ever, waste of money lol",4025,51,2026-05-07,Twitter
+POST_1976,user_512,"I love this app, it is so easy to use",4968,262,2026-04-28,Facebook
+POST_1977,user_755,This movie is amazing!,4855,6,2026-04-27,Twitter
+POST_1978,user_544,"I love this app, it is so easy to use",1787,21,2026-05-04,YouTube
+POST_1979,user_644,Product launched today in the market,3168,429,2026-04-22,Twitter
+POST_1980,user_159,"Beautiful weather today, perfect for a walk. #cricket",2208,571,2026-05-09,Facebook
+POST_1981,user_717,This movie is amazing!,3508,526,2026-04-21,Reddit
+POST_1982,user_966,My phone battery drains too fast after the update,4271,760,2026-05-15,Facebook
+POST_1983,user_375,"Not worth the price, totally disappointed.",1876,104,2026-05-13,YouTube
+POST_1984,user_866,The customer service was really bad and rude,566,380,2026-04-29,Reddit
+POST_1985,user_547,Product launched today in the market,3220,969,2026-05-10,Twitter
+POST_1986,user_223,Product launched today in the market,3448,877,2026-05-08,Facebook
+POST_1987,user_622,Cricket World Cup is getting intense!,2179,441,2026-05-20,Facebook
+POST_1988,user_936,"Beautiful weather today, perfect for a walk. #awesome",2483,728,2026-04-28,Reddit
+POST_1989,user_355,Can't wait for the cricket match tomorrow!! #AI,510,133,2026-05-04,Facebook
+POST_1990,user_979,Can't wait for the cricket match tomorrow!!,3768,135,2026-05-09,YouTube
+POST_1991,user_811,Cricket World Cup is getting intense!,4369,910,2026-05-17,Twitter
+POST_1992,user_253,"I hate the new update, it crashes constantly",4027,598,2026-05-17,Reddit
+POST_1993,user_957,Loving the new AI features on this platform.,3514,714,2026-05-03,Reddit
+POST_1994,user_914,Can't wait for the cricket match tomorrow!! #awesome,1916,316,2026-05-06,Facebook
+POST_1995,user_220,"Worst product ever, waste of money",2009,211,2026-04-30,YouTube
+POST_1996,user_446,Awesome experience! Highly recommended.,1161,997,2026-04-24,Twitter
+POST_1997,user_629,"Not worth the price, totally disappointed.",4521,92,2026-05-01,Instagram
+POST_1998,user_596,Election results are shocking to say the least,216,763,2026-04-25,YouTube
+POST_1999,user_891,Awesome experience! Highly recommended.,3355,853,2026-05-05,YouTube
